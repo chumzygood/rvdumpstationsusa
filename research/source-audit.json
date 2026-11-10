@@ -1,0 +1,1681 @@
+[
+  {
+    "slug": "abilene",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/abilene",
+        "snapshot": "research/abilene-home.txt",
+        "sha256": "d78990d504ad1434fef9466cc308195f112f2f32176df7d06f11155826c3cfb1",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/abilene/fees-facilities/campsites",
+        "snapshot": "research/abilene-camping.txt",
+        "sha256": "010606a28bd73d288175247e01ea805d532179632bcd2b31903dca16a6edf5a2",
+        "dump_fee_blocks": [
+          "Dump Station Fee Dump station fee is $5 per vehicle."
+        ],
+        "dump_mentions": [
+          "Dump Station Fee",
+          "Dump station fee is $5 per vehicle."
+        ]
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/abilene/fees-facilities/entrance-fees",
+        "snapshot": "research/abilene-fees.txt",
+        "sha256": "c41f801e20bfe88dd2afd989cbbd5b1c1d958d3afdc7110ef9cc6ec91ed7e012",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "atlanta",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/atlanta",
+        "snapshot": "research/atlanta-home.txt",
+        "sha256": "e1a78d34a81aed2516801780b15c039e7974db44e817cb227ea3ae62b5acd7e6",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/atlanta/fees-facilities/campsites",
+        "snapshot": "research/atlanta-camping.txt",
+        "sha256": "ea5c23ff47e47d5dd77229953d88e3da43192b5870fed75dca9d8b2733fef94f",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/atlanta/fees-facilities/entrance-fees",
+        "error": "404 Client Error: Not Found for url: https://tpwd.texas.gov/state-parks/atlanta/fees-facilities/entrance-fees"
+      }
+    ]
+  },
+  {
+    "slug": "balmorhea",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/balmorhea",
+        "snapshot": "research/balmorhea-home.txt",
+        "sha256": "ddfcee156776d4f68d04579330397d5b3269f509fd3426000376c49ca1592c90",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/balmorhea/fees-facilities/campsites",
+        "snapshot": "research/balmorhea-camping.txt",
+        "sha256": "67b1ae3897baa4f7bfaa3624dce4ba6c6a5fdc2d2e54ea333159253fe34c0edc",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/balmorhea/fees-facilities/entrance-fees",
+        "snapshot": "research/balmorhea-fees.txt",
+        "sha256": "e0c51a5d88fd96c4502c534735bd784107731ac405319734208fc6d3b4953cbc",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "bastrop",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/bastrop",
+        "snapshot": "research/bastrop-home.txt",
+        "sha256": "793d02348934f76bb47c6bdc19705298257a3f91ca94432bd7881515cfc3b7bb",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/bastrop/fees-facilities/campsites",
+        "snapshot": "research/bastrop-camping.txt",
+        "sha256": "f4368024a8056af08b460bf2c96f9b35241eece7631b340c8e86e43141d90199",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/bastrop/fees-facilities/entrance-fees",
+        "snapshot": "research/bastrop-fees.txt",
+        "sha256": "87c2420934ef8549d7a8597cedd56d679422b25f3879cc3d238a987e644e3c3e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "blanco",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/blanco",
+        "snapshot": "research/blanco-home.txt",
+        "sha256": "c5917a091e04e8c6011f960aa0dbf1f227013264c625b1346f8a506bee263793",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/blanco/fees-facilities/campsites",
+        "snapshot": "research/blanco-camping.txt",
+        "sha256": "de601b3a8892c1b3c9152a6e0d044abebbb687281b60e3ed068c35025b501be8",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/blanco/fees-facilities/entrance-fees",
+        "snapshot": "research/blanco-fees.txt",
+        "sha256": "b99c130a8b5b019128a251a7237e058a8c83ef622f7ea4092506c3b8ce42f069",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "bonham",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/bonham",
+        "snapshot": "research/bonham-home.txt",
+        "sha256": "86baf3fe26ec9b9db78cc30b0be01293f1cbd0ab60ae2a773aa9146cd6638ea9",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/bonham/fees-facilities/campsites",
+        "snapshot": "research/bonham-camping.txt",
+        "sha256": "9c8083eccb47fc57cce49a8f3323b29740e3147fee1b0ab630816f70aeb07af8",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/bonham/fees-facilities/entrance-fees",
+        "snapshot": "research/bonham-fees.txt",
+        "sha256": "602d8c0c526940e7f866bc1c2ba13273057e096d30b56c10791d0282a12b7d80",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "brazos-bend",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/brazos-bend",
+        "snapshot": "research/brazos-bend-home.txt",
+        "sha256": "6cfbd2f0c4fbaa92aee61547f727ca8334cc5c9c557ec8720ee6eaf5aed6014e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/brazos-bend/fees-facilities/campsites",
+        "snapshot": "research/brazos-bend-camping.txt",
+        "sha256": "9e936279b79c338e2d8757071f1206ea1335b3211bb05e405a0906ba1f4d6a17",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/brazos-bend/fees-facilities/entrance-fees",
+        "snapshot": "research/brazos-bend-fees.txt",
+        "sha256": "9b102ce9c6dd88fce953ef93b7b8e8a8f0238e9962ea10ff1095a0480e7bc34b",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "buescher",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/buescher",
+        "snapshot": "research/buescher-home.txt",
+        "sha256": "7a535db8ee7e7b2bcbcabee88fd5476a7c6f22ce206dc8b84ecd8216368f8fbb",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/buescher/fees-facilities/campsites",
+        "snapshot": "research/buescher-camping.txt",
+        "sha256": "e498e97627121d362329a2072ee4fa355423a1dfa08ad6d59aa99ea5ba5d08cb",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/buescher/fees-facilities/entrance-fees",
+        "snapshot": "research/buescher-fees.txt",
+        "sha256": "86a952523840523adb2b7c4f95dae410aac8c25ab80aa170a13fbfe1b51367e1",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "caddo-lake",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/caddo-lake",
+        "snapshot": "research/caddo-lake-home.txt",
+        "sha256": "43c032e449a4711bdbcf2604bc930a89b4cd56f0497973bfa99b1128e0eeed29",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/caddo-lake/fees-facilities/campsites",
+        "snapshot": "research/caddo-lake-camping.txt",
+        "sha256": "a0c4f75f964e679f1cd1d77f09b823e48987b0713870db2ed8f33665054f2db3",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/caddo-lake/fees-facilities/entrance-fees",
+        "snapshot": "research/caddo-lake-fees.txt",
+        "sha256": "c525193071bd3691c6d68afeef8e47abe3b9c2c9172dba042faceadba240164a",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "caprock-canyons",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/caprock-canyons",
+        "snapshot": "research/caprock-canyons-home.txt",
+        "sha256": "6a893e21a74afdebbd0b98bcc6139247e14295d8feb76a082f7978aacfed2228",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/caprock-canyons/fees-facilities/campsites",
+        "snapshot": "research/caprock-canyons-camping.txt",
+        "sha256": "6553354d851185f4c24bf5ba8a0f84c0b0765b15683d87439e46cccc6f36485e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/caprock-canyons/fees-facilities/entrance-fees",
+        "snapshot": "research/caprock-canyons-fees.txt",
+        "sha256": "e0f7b7105e91585c1321a0ce85575be894105fb3aa569d3ea8072e8308d38ab1",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "cedar-hill",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cedar-hill",
+        "snapshot": "research/cedar-hill-home.txt",
+        "sha256": "dca5310e1bf065525e09308a0a0137edc04eb493f8bbdfdc92e9622216d5cbbd",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cedar-hill/fees-facilities/campsites",
+        "snapshot": "research/cedar-hill-camping.txt",
+        "sha256": "ba6dcac95edfbf6b15bc594f233bcbaf75d262dc90ce15f8a595712d49edf5f0",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cedar-hill/fees-facilities/entrance-fees",
+        "snapshot": "research/cedar-hill-fees.txt",
+        "sha256": "c5c0d0e249d7033b5c6434e46e823cf89f7fd6f9a8b652af7ad8c5387d24fe8e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "choke-canyon",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/choke-canyon",
+        "snapshot": "research/choke-canyon-home.txt",
+        "sha256": "567b9480e8a999a779f9300a572dd947e2fcdf6fabd4b42b60b7b5a64be73508",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/choke-canyon/fees-facilities/campsites",
+        "snapshot": "research/choke-canyon-camping.txt",
+        "sha256": "20921011cd51b848bd0addb22989e2a9e5ece90e39751b74ae854a98637c57ed",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/choke-canyon/fees-facilities/entrance-fees",
+        "snapshot": "research/choke-canyon-fees.txt",
+        "sha256": "ed78f3e8a299888c6676a025dae8e4d6458e879d385fb21e05f2bc4b4c620b17",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "cleburne",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cleburne",
+        "snapshot": "research/cleburne-home.txt",
+        "sha256": "aa2ac19c5e34676c9ecb22130c1ed2c7d2e86ae8cc6471c9e1b509f3e7b8fcce",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cleburne/fees-facilities/campsites",
+        "snapshot": "research/cleburne-camping.txt",
+        "sha256": "019c1f757a6d852a845278de7cadcf1bffd3cddac5fe608779a4024a0e16c2c4",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cleburne/fees-facilities/entrance-fees",
+        "snapshot": "research/cleburne-fees.txt",
+        "sha256": "eabdb3e0075d8ab0b6fb83b1eb2373077d20e5b231cc78b0b1facedb873933f4",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "cooper-lake",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cooper-lake",
+        "snapshot": "research/cooper-lake-home.txt",
+        "sha256": "1b5a31b26d87251a7641e9e16dfb957d87cf44814fdbd9663821d083eafde213",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cooper-lake/fees-facilities/campsites",
+        "snapshot": "research/cooper-lake-camping.txt",
+        "sha256": "3be14df0c00816b61908a7868089e88f2302e5c46435088c70eddb39a1e98994",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/cooper-lake/fees-facilities/entrance-fees",
+        "snapshot": "research/cooper-lake-fees.txt",
+        "sha256": "81e1ae2a9e978f012f9df3f62666297fd2a9732f0a107eeb848bb32890a607e8",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "copper-breaks",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/copper-breaks",
+        "snapshot": "research/copper-breaks-home.txt",
+        "sha256": "ff7c2fbdf8138c4e45d6a816eabe2958a3846afe6775f5555e06631c27ac62db",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/copper-breaks/fees-facilities/campsites",
+        "snapshot": "research/copper-breaks-camping.txt",
+        "sha256": "d1a9283eeda244126f7cd02cf13188ddb948070eba3f087c47b9aaae29ef8a07",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/copper-breaks/fees-facilities/entrance-fees",
+        "snapshot": "research/copper-breaks-fees.txt",
+        "sha256": "c53ba83fac982a4ed95682e6216e0273b77355a353c92b1c29029c4269c969eb",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "daingerfield",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/daingerfield",
+        "snapshot": "research/daingerfield-home.txt",
+        "sha256": "667f61265f2ca01aa5b232d6754158dae984b0c5930ab92834e168dbabcce94d",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/daingerfield/fees-facilities/campsites",
+        "snapshot": "research/daingerfield-camping.txt",
+        "sha256": "6cf9da516f36b94b3889bb8adb7c93891ea63f9d4e6b0432d533151f6f2a4fe3",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/daingerfield/fees-facilities/entrance-fees",
+        "snapshot": "research/daingerfield-fees.txt",
+        "sha256": "214a07224cf9e2d61fe2be3392c4b49687f3593417e426931c75b4242386bddd",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "davis-mountains",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/davis-mountains",
+        "snapshot": "research/davis-mountains-home.txt",
+        "sha256": "25140491c232b99d6852be02c43c476bdc51ceea44d2ec440322a2f5f7329e98",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/davis-mountains/fees-facilities/campsites",
+        "snapshot": "research/davis-mountains-camping.txt",
+        "sha256": "85231683e8b6232d1f994756fec79d740e44d995a193d0bd5bd8ef64490c13a7",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/davis-mountains/fees-facilities/entrance-fees",
+        "snapshot": "research/davis-mountains-fees.txt",
+        "sha256": "63dda8aeaf7140cb89f414da1c447456ebf518621ef4fe9465f531bfac37f923",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "dinosaur-valley",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/dinosaur-valley",
+        "snapshot": "research/dinosaur-valley-home.txt",
+        "sha256": "8cd9de92998a374c5848f0b93df544322a0b4335e4e01aed893dfd1de4e607b9",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/dinosaur-valley/fees-facilities/campsites",
+        "snapshot": "research/dinosaur-valley-camping.txt",
+        "sha256": "b07d5728fb5ac32981f778143cf30699eaca2e86a1ba777391e20f8a9c198e43",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/dinosaur-valley/fees-facilities/entrance-fees",
+        "snapshot": "research/dinosaur-valley-fees.txt",
+        "sha256": "858a4cf7c8f0d054d266e7ea1a837cd3581ae6e02ddfae95205084530f175592",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "eisenhower",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/eisenhower",
+        "snapshot": "research/eisenhower-home.txt",
+        "sha256": "01f98abc03d2c589ebbc21c9ce049ecb870c0b382b5b3ac9bd00a10d98eb0c23",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/eisenhower/fees-facilities/campsites",
+        "snapshot": "research/eisenhower-camping.txt",
+        "sha256": "e443d287681ee6324faf419447a71b841a2e3e3afcda15f5f17966e9b26d2e7a",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/eisenhower/fees-facilities/entrance-fees",
+        "snapshot": "research/eisenhower-fees.txt",
+        "sha256": "078ed9c4772f5fdfa24b4ef5a7cfe56f6c4defc21b49d7875752e2722f1ae071",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "falcon",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/falcon",
+        "snapshot": "research/falcon-home.txt",
+        "sha256": "0187ba054a383e9bb5fc2393fb91e9d11dbd7ae7b1f2fb57f5de374b55a0548e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/falcon/fees-facilities/campsites",
+        "snapshot": "research/falcon-camping.txt",
+        "sha256": "0b5a17d04ed517972f4da294119822b34ac92959a6b68717a6d4f74b4dc7ce54",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/falcon/fees-facilities/entrance-fees",
+        "snapshot": "research/falcon-fees.txt",
+        "sha256": "d82fcff23c790ad2452e622bbf399618edc5d707e02ddb2ff8b76e2f3c84d490",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "fort-parker",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/fort-parker",
+        "snapshot": "research/fort-parker-home.txt",
+        "sha256": "e20e59b807554cd86c6e2cd1d96ca9a06710ed8f52120ac1d6f7c9b6794ec6c0",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/fort-parker/fees-facilities/campsites",
+        "snapshot": "research/fort-parker-camping.txt",
+        "sha256": "3353dc7159297942c6678cd298aae5625dcb64c834fbd37ca255138034b4ed56",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/fort-parker/fees-facilities/entrance-fees",
+        "snapshot": "research/fort-parker-fees.txt",
+        "sha256": "1974e7e13c17096434b29b9e515ac6177e7308d0d1235a0a21375c1f18781f30",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "fort-richardson",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/fort-richardson",
+        "snapshot": "research/fort-richardson-home.txt",
+        "sha256": "8a47d32a8ef05a955fea5b16e585610af57adaecb0067f9dd9cbb2a3962199f7",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/fort-richardson/fees-facilities/campsites",
+        "snapshot": "research/fort-richardson-camping.txt",
+        "sha256": "c558eeb7c3b63af3d31dd63ca7f428ffeee32c71179d61355556907901f83d4d",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/fort-richardson/fees-facilities/entrance-fees",
+        "snapshot": "research/fort-richardson-fees.txt",
+        "sha256": "53fc334c40c4156e25337f7036dad1c1dce009f2ddf83533434bc4671259a6b2",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "galveston-island",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/galveston-island",
+        "snapshot": "research/galveston-island-home.txt",
+        "sha256": "8ada99aa8ef1d6b7be37f753e84dde643567933826f1c4f526ea308c9278c254",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/galveston-island/fees-facilities/campsites",
+        "snapshot": "research/galveston-island-camping.txt",
+        "sha256": "b5d69a5d67ae997e29ae0e3db501e6835ea2469af2b9854c03d1fddc9a3c3948",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/galveston-island/fees-facilities/entrance-fees",
+        "snapshot": "research/galveston-island-fees.txt",
+        "sha256": "8f557321b2bc9cd73ffc03a41626cf208d1061c983d36edfa0bf86dc67ecf3a4",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "garner",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/garner",
+        "snapshot": "research/garner-home.txt",
+        "sha256": "5ff337326ec4d0cb7389df13c35496f8d44f71a12914dbbe213b47652273507c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/garner/fees-facilities/campsites",
+        "snapshot": "research/garner-camping.txt",
+        "sha256": "f78db60d9d224bc17b1871fa759f6489bbc1f40320851969618d9946ff6299b3",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/garner/fees-facilities/entrance-fees",
+        "snapshot": "research/garner-fees.txt",
+        "sha256": "ef8abdd793d9314bb7b89a49c8a774244cd9f63a1964b8dd31f241ab729f332c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "goliad",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/goliad",
+        "snapshot": "research/goliad-home.txt",
+        "sha256": "45acef2e39c0a7ab78da0b5274a2214be0de097cc5a71492d80471f2b447855c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/goliad/fees-facilities/campsites",
+        "snapshot": "research/goliad-camping.txt",
+        "sha256": "9bbacc5527f8607cb5a157d37c1a148152449751388f76b651c5e36ba2428aa7",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/goliad/fees-facilities/entrance-fees",
+        "snapshot": "research/goliad-fees.txt",
+        "sha256": "ee90b2b5f59c56fa40da444df8dd4b0eddcc1d8584523bbcdcd96792a6efbb9a",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "goose-island",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/goose-island",
+        "snapshot": "research/goose-island-home.txt",
+        "sha256": "531982742e7994d4c2dde5b1729babe693b657236c8ba9671ce0ac46c764f09a",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/goose-island/fees-facilities/campsites",
+        "snapshot": "research/goose-island-camping.txt",
+        "sha256": "ab1116626d48881a94131013436b97a7973de84970fcb7413de000c96e9d9b40",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/goose-island/fees-facilities/entrance-fees",
+        "snapshot": "research/goose-island-fees.txt",
+        "sha256": "e94861b2013a5cd1482e63b7807a3f984e6875e30b0e2366f097b0a72ae27197",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "guadalupe-river",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/guadalupe-river",
+        "snapshot": "research/guadalupe-river-home.txt",
+        "sha256": "bae97a82a5bf7f93acbb64d88e86ac2c14d2f7a7f9da7803117cc8e41fa36963",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/guadalupe-river/fees-facilities/campsites",
+        "snapshot": "research/guadalupe-river-camping.txt",
+        "sha256": "1b221cae3c24ad73e7d0eba6706ba64304e1d26540c9967369865e9c519dcf06",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/guadalupe-river/fees-facilities/entrance-fees",
+        "snapshot": "research/guadalupe-river-fees.txt",
+        "sha256": "5ffd67916842ecad98dbc2917d7f12fdefbe863eaaa5c0d27d17c83b34e3ba43",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "hueco-tanks",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/hueco-tanks",
+        "snapshot": "research/hueco-tanks-home.txt",
+        "sha256": "234db2be0de805c3c19642ac0ecddbdcb29143bc49e6c05e1ba7577546d2662f",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/hueco-tanks/fees-facilities/campsites",
+        "snapshot": "research/hueco-tanks-camping.txt",
+        "sha256": "f9fc314cf21b14710b81833c9eabc86b871af7d387248685906926b5670d18a3",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/hueco-tanks/fees-facilities/entrance-fees",
+        "snapshot": "research/hueco-tanks-fees.txt",
+        "sha256": "ba7b3e7776df03c024cec60702150ea4d9ef948ef1d1fa8b8d225d85b31070aa",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "huntsville",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/huntsville",
+        "snapshot": "research/huntsville-home.txt",
+        "sha256": "6be219f27bd087f7f8e2965ce97f654484ad0d53d4d0cd45e6c0805a064d0d73",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/huntsville/fees-facilities/campsites",
+        "snapshot": "research/huntsville-camping.txt",
+        "sha256": "9a8fa12db2bf9a8d1f018c57835fb4ce71d0663f557da490d86f7579bee37509",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/huntsville/fees-facilities/entrance-fees",
+        "snapshot": "research/huntsville-fees.txt",
+        "sha256": "78f6a4787080499aefdda4ff01285df68b7feec4c6087b8b6097d8600e6e3502",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "inks-lake",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/inks-lake",
+        "snapshot": "research/inks-lake-home.txt",
+        "sha256": "49aaad1ddd6313e3f1015cf960c60ae879013b5e98365dc579ce6f2cd4938cb7",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/inks-lake/fees-facilities/campsites",
+        "snapshot": "research/inks-lake-camping.txt",
+        "sha256": "1cb95682c2ba3c786f3a8afb88b24186e500525646f2414b4840f91bef3462ff",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/inks-lake/fees-facilities/entrance-fees",
+        "snapshot": "research/inks-lake-fees.txt",
+        "sha256": "efa22b27a8a4ab7787aef83c23b7ff2ad5bff3be0491b3c161d1ec6fda41bf73",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-arrowhead",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-arrowhead",
+        "snapshot": "research/lake-arrowhead-home.txt",
+        "sha256": "845ff2a74289ba144c3a10d32e57b4f290925a036adc08e570c5d6575da5d950",
+        "dump_fee_blocks": [],
+        "dump_mentions": [
+          "Park restrooms are accessible; one (in the water-electric campground) also has showers. The park has a dump station."
+        ]
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-arrowhead/fees-facilities/campsites",
+        "snapshot": "research/lake-arrowhead-camping.txt",
+        "sha256": "bd7d8960b73e02dddb836b0adeed136b5b39408bd576eee1f08b40c48e777d56",
+        "dump_fee_blocks": [
+          "Dump Station Fee $5 fee per vehicle"
+        ],
+        "dump_mentions": [
+          "Dump Station Fee"
+        ]
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-arrowhead/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-arrowhead-fees.txt",
+        "sha256": "f35a0f8014bf32224f8475a04b0ba93155f7df24387e492426ebc497cabde540",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-bob-sandlin",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-bob-sandlin",
+        "snapshot": "research/lake-bob-sandlin-home.txt",
+        "sha256": "57675d850f245f128d9c6844b10a0268b82ce2f2d753ba63a3572e33a6d2aa59",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-bob-sandlin/fees-facilities/campsites",
+        "snapshot": "research/lake-bob-sandlin-camping.txt",
+        "sha256": "2e4b74292e2353f18334c2c451c79f71fc650a66c3e0abcdadd881c29c9de1f3",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-bob-sandlin/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-bob-sandlin-fees.txt",
+        "sha256": "5f0ce3d7319aa76faad3a1099e1493d34c938b0c1e8d010042a02159486e5a2c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-brownwood",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-brownwood",
+        "snapshot": "research/lake-brownwood-home.txt",
+        "sha256": "637d74e629883bf2a14881fe8c7288c0dffda3b71c6e4bbade6fdc3130fcd469",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-brownwood/fees-facilities/campsites",
+        "snapshot": "research/lake-brownwood-camping.txt",
+        "sha256": "286a8d13fd457e16d38cd2e32e37a3fb0eb94c4973c21d6bc59855b1209d6e40",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-brownwood/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-brownwood-fees.txt",
+        "sha256": "451a52ad5dcaf938c8a360e1e9a8402fb840f0b1bfe9901422ecf5b27399d8ac",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-casa-blanca",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-casa-blanca",
+        "snapshot": "research/lake-casa-blanca-home.txt",
+        "sha256": "e6ce80a16b26c66a0acb457b8c476cd96d2b9d19427573f6aa7e1e65823c57c3",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-casa-blanca/fees-facilities/campsites",
+        "snapshot": "research/lake-casa-blanca-camping.txt",
+        "sha256": "a6d426a0ef4a63dec0ec83ae42934544bd315d3d987d14d193174c2b4bf8e4c9",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-casa-blanca/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-casa-blanca-fees.txt",
+        "sha256": "f690ec561b070a46411ae8a545710166745dd3e6f91e122b4939106245d5136e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-colorado-city",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-colorado-city",
+        "snapshot": "research/lake-colorado-city-home.txt",
+        "sha256": "594d2bc51038a8653b0a1f5506bf2389f0d122de3ae3bb8b6f68f379d5f5ef18",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-colorado-city/fees-facilities/campsites",
+        "snapshot": "research/lake-colorado-city-camping.txt",
+        "sha256": "2fa84f12f424d29c7d242261f10685d6180a770987e4135b63b59fed30f0321a",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-colorado-city/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-colorado-city-fees.txt",
+        "sha256": "777af755d38352f261f534dd011674011e26e328dea934c428ae6939311cdf58",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-corpus-christi",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-corpus-christi",
+        "snapshot": "research/lake-corpus-christi-home.txt",
+        "sha256": "f2fec3ad70783efe1b72ca042db02a47450bb91782b36cba3c9516de14d1c5b0",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-corpus-christi/fees-facilities/campsites",
+        "snapshot": "research/lake-corpus-christi-camping.txt",
+        "sha256": "377b8a6132c4a55400cefa8f5882410a645201b165422f3d926d1a36fb924ebe",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-corpus-christi/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-corpus-christi-fees.txt",
+        "sha256": "5c13f523221158eac9ce8d4b6d7edd99a9b0bed8393661e6cb4d9d3846285e2c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-livingston",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-livingston",
+        "snapshot": "research/lake-livingston-home.txt",
+        "sha256": "2b19cd54bf1fcab1458aa2828d15c0842350d48e85681f22c4a34c493d64610d",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-livingston/fees-facilities/campsites",
+        "snapshot": "research/lake-livingston-camping.txt",
+        "sha256": "a45fad2824b62039fbcd4a91051e74741a78d75fc2f1e9fd68e33c4d0f7aa241",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-livingston/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-livingston-fees.txt",
+        "sha256": "39541fa81180e7a8c24c105890b1dc3a65339027c4351948015b9afd4c06f88c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-mineral-wells",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-mineral-wells",
+        "snapshot": "research/lake-mineral-wells-home.txt",
+        "sha256": "ee123e31f26f70d37bdbe176375dd4d4923ced7bbf08a43a504601193c628ca7",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-mineral-wells/fees-facilities/campsites",
+        "snapshot": "research/lake-mineral-wells-camping.txt",
+        "sha256": "2a012d7ba51668cdb7f52144d76d80d5012f29332b0560677ffe338d470c17bd",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-mineral-wells/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-mineral-wells-fees.txt",
+        "sha256": "17ce4e4ea011b9b75b43a2ed36d6dde72f679740dd003cdebb5368388abedd2e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-somerville",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-somerville",
+        "snapshot": "research/lake-somerville-home.txt",
+        "sha256": "3faa7de8ec739619f1ee1c0f2c988853d4a617c55855acee55d53e8d92b6ed8f",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-somerville/fees-facilities/campsites",
+        "snapshot": "research/lake-somerville-camping.txt",
+        "sha256": "be8ef507bec75739d4f12c4bb21f2038de63ea77d48012e3bdceec877e015b35",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-somerville/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-somerville-fees.txt",
+        "sha256": "87dfaa43656996d8f07c5c188eea17753e93d3a74235b0a7b739f374cbd07cd0",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-tawakoni",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-tawakoni",
+        "snapshot": "research/lake-tawakoni-home.txt",
+        "sha256": "1b93ea4c27f61710b909ae843fe3029a175ed2f0588943b3e2dce08c49dfce4f",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-tawakoni/fees-facilities/campsites",
+        "snapshot": "research/lake-tawakoni-camping.txt",
+        "sha256": "a99a25a110f9c3a143260f5837c2c9320bf82829740e591a4862f7731c6ab24e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-tawakoni/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-tawakoni-fees.txt",
+        "sha256": "48aea15bb95ab694a628e4bb815c378ea4b808a6460532c3c1c4ad30c9709976",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lake-whitney",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-whitney",
+        "snapshot": "research/lake-whitney-home.txt",
+        "sha256": "ef73226619b5b469dfef4c0ab5e25724aa0bbce0cd00facac57bfe77bc46b443",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-whitney/fees-facilities/campsites",
+        "snapshot": "research/lake-whitney-camping.txt",
+        "sha256": "77140b138fc7bf03ef1098ba2275617cd49e9f5f947a5dd1f8d8e4dd6f47babe",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lake-whitney/fees-facilities/entrance-fees",
+        "snapshot": "research/lake-whitney-fees.txt",
+        "sha256": "4efbed2b3546cbc04092e89120d69ed41adc7158228e19c99788c3451177515f",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "lockhart",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lockhart",
+        "snapshot": "research/lockhart-home.txt",
+        "sha256": "b8945d5491dc049ac801026a0d8593833a9724c215745ab7c7aeefd0ced878b2",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lockhart/fees-facilities/campsites",
+        "snapshot": "research/lockhart-camping.txt",
+        "sha256": "0835041028f1644d22cfbb976fbd2d89984cb97d4ebfd608372d4a3e5bf4a0c6",
+        "dump_fee_blocks": [],
+        "dump_mentions": [
+          "Dump station available"
+        ]
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lockhart/fees-facilities/entrance-fees",
+        "snapshot": "research/lockhart-fees.txt",
+        "sha256": "da64d22de64c62dff85409d92b90f4ba8d056cdcf857982227ffa982d8ef5285",
+        "dump_fee_blocks": [
+          "Dump Station Fee This fee is for day use visitors who use the dump station. $10 Daily Plus daily entrance fee"
+        ],
+        "dump_mentions": [
+          "Dump Station Fee",
+          "This fee is for day use visitors who use the dump station."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lost-maples",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lost-maples",
+        "snapshot": "research/lost-maples-home.txt",
+        "sha256": "28b73cbd6f072a975e9c8ee8892b58ef0cf18920b6327c80a63902c7319a000a",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lost-maples/fees-facilities/campsites",
+        "snapshot": "research/lost-maples-camping.txt",
+        "sha256": "bbf8b49adcd41ba0fe09c55be49e6c33c604a373f1360cce552f4f6f268e6665",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/lost-maples/fees-facilities/entrance-fees",
+        "snapshot": "research/lost-maples-fees.txt",
+        "sha256": "2842d9e82839818c0ea6d475b0356bb8dafff1f3b62b3b340a9229fd046ac380",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "martin-creek-lake",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/martin-creek-lake",
+        "snapshot": "research/martin-creek-lake-home.txt",
+        "sha256": "d7132df68bd091326b9d766e8afa4acf0166a75337dc28a5634664ca1e5ac77e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/martin-creek-lake/fees-facilities/campsites",
+        "snapshot": "research/martin-creek-lake-camping.txt",
+        "sha256": "00ff6c6031158894c88acb011484db83eaa19c12c1ed2062f42e5ab39e0a128c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/martin-creek-lake/fees-facilities/entrance-fees",
+        "snapshot": "research/martin-creek-lake-fees.txt",
+        "sha256": "5635cb2162d235ce59e1114c394bd9d2e824f7e831a54115aae68540a2d50db8",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "martin-dies-jr",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/martin-dies-jr",
+        "snapshot": "research/martin-dies-jr-home.txt",
+        "sha256": "16c0b1e8c7b3375715185d2cdb43c1242222a949e9095391b6e7d538393114b4",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/martin-dies-jr/fees-facilities/campsites",
+        "snapshot": "research/martin-dies-jr-camping.txt",
+        "sha256": "c8c08c8ee9a03bf94c831ffd03a3f1968c649fcc4f6a4612374e0cb0d4466a7b",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/martin-dies-jr/fees-facilities/entrance-fees",
+        "snapshot": "research/martin-dies-jr-fees.txt",
+        "sha256": "3456e55f719a4f0d83b7cb9b6df04c4efbe2cd1ec626f8dd7b12d28c18499233",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "mckinney-falls",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mckinney-falls",
+        "snapshot": "research/mckinney-falls-home.txt",
+        "sha256": "ce3b4bda979174d854938997ebb9cdf680f1f5cb6b4f2e08631228a9a303e781",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mckinney-falls/fees-facilities/campsites",
+        "snapshot": "research/mckinney-falls-camping.txt",
+        "sha256": "32f26230f0449ff3fcf28b6aac6e2427de87ca5d2934b8b9bb274686a88c0e97",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mckinney-falls/fees-facilities/entrance-fees",
+        "snapshot": "research/mckinney-falls-fees.txt",
+        "sha256": "8510f0b5dd019e9c255ee28869ab7aaee2d733978c0c30433c4b2b3ee9a481af",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "meridian",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/meridian",
+        "snapshot": "research/meridian-home.txt",
+        "sha256": "3b489f3e0c977c43d636db3190271c5b693cfa93fcbc4231ba15a97cbba8a0c4",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/meridian/fees-facilities/campsites",
+        "snapshot": "research/meridian-camping.txt",
+        "sha256": "3c82117c013998acdf2db1b081965a57e3bfa03e478f687d75e511266f9301c4",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/meridian/fees-facilities/entrance-fees",
+        "snapshot": "research/meridian-fees.txt",
+        "sha256": "71da868911e67c8817764becd23591189a7afa270a67572738ad8397d945d622",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "mission-tejas",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mission-tejas",
+        "snapshot": "research/mission-tejas-home.txt",
+        "sha256": "ea092f16859dbecfd840778c894bd91ba821dab8fecbe24719bed92db95226cd",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mission-tejas/fees-facilities/campsites",
+        "snapshot": "research/mission-tejas-camping.txt",
+        "sha256": "200031288aa6123da0902caf2912f33aa24fae7b239de1a4703b255143907711",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mission-tejas/fees-facilities/entrance-fees",
+        "snapshot": "research/mission-tejas-fees.txt",
+        "sha256": "63573feaf082304933fd2e4ac78457ef58ed270cb75962e8eb6a8df90d590312",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "monahans-sandhills",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/monahans-sandhills",
+        "snapshot": "research/monahans-sandhills-home.txt",
+        "sha256": "8e31772157cb9a2d566559e7aa1bc5e025232025bb9670988bab9aa322db7200",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/monahans-sandhills/fees-facilities/campsites",
+        "snapshot": "research/monahans-sandhills-camping.txt",
+        "sha256": "98e0524cc74d9b70947112da1439bfecc74b4aed480c2ddb136e72c3a875d4f1",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/monahans-sandhills/fees-facilities/entrance-fees",
+        "snapshot": "research/monahans-sandhills-fees.txt",
+        "sha256": "7e332d06aa78632b3cc5b0d16a789d94feef69c272e5d5c3393b20f9a64fba53",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "mustang-island",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mustang-island",
+        "snapshot": "research/mustang-island-home.txt",
+        "sha256": "5a763467c1fea25aa3b3370c70d4d2c0c7bc63d0cf21cf030c85d73413b79c05",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mustang-island/fees-facilities/campsites",
+        "snapshot": "research/mustang-island-camping.txt",
+        "sha256": "a8b2e59a594027c0eb66f3caed31a735277cfe30e28f6697933cfed08f7d635d",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/mustang-island/fees-facilities/entrance-fees",
+        "snapshot": "research/mustang-island-fees.txt",
+        "sha256": "c8ccf4b3d31af803d3f915dc1ccf6e1675c924efa1cccea6a0a572fc8bf591af",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "palmetto",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palmetto",
+        "snapshot": "research/palmetto-home.txt",
+        "sha256": "0320199ebac63471c988d600665f938af6c3d2731b9c7e787df03d626c6c0925",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palmetto/fees-facilities/campsites",
+        "snapshot": "research/palmetto-camping.txt",
+        "sha256": "d3ae0e37a3b22702bd6ed9084064fdac32d38f9c3b3d41059011dd4105cc0a36",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palmetto/fees-facilities/entrance-fees",
+        "snapshot": "research/palmetto-fees.txt",
+        "sha256": "32aa49df29464fada87cb20319957a9412baba22a998830474beeeb3bf216527",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "palo-duro-canyon",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palo-duro-canyon",
+        "snapshot": "research/palo-duro-canyon-home.txt",
+        "sha256": "c97c81e85e379a7652abc9f3e7573ad3444607832dbdc1455ac5f80436a91060",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palo-duro-canyon/fees-facilities/campsites",
+        "snapshot": "research/palo-duro-canyon-camping.txt",
+        "sha256": "9f9030ac6e8a39d40f0dd4af5a530fcd5e58a5aacefadf06fe81b15ac0084437",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palo-duro-canyon/fees-facilities/entrance-fees",
+        "snapshot": "research/palo-duro-canyon-fees.txt",
+        "sha256": "d5de008e3286b11f29392252728bce063dcdce4c5041548bded9e3446b93924f",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "palo-pinto-mountains",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palo-pinto-mountains",
+        "snapshot": "research/palo-pinto-mountains-home.txt",
+        "sha256": "61eb01cbac5a87ea546bec814a5164eb918b45d105e5347f202d1d514dbf9f0b",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palo-pinto-mountains/fees-facilities/campsites",
+        "snapshot": "research/palo-pinto-mountains-camping.txt",
+        "sha256": "e4725945306f1b3ff915bc51df4a2ba954de02f5cea6bd551f5697bd52a187f5",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/palo-pinto-mountains/fees-facilities/entrance-fees",
+        "snapshot": "research/palo-pinto-mountains-fees.txt",
+        "sha256": "6276ea548021ddd0aa8933abd3ca7bec357f8bf45edfa4b24f58e0e7f3d158a2",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "pedernales-falls",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/pedernales-falls",
+        "snapshot": "research/pedernales-falls-home.txt",
+        "sha256": "ee265cb192f355bb285791d4b9dac4b5ce655c93e82523193f1d194130bbd09c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/pedernales-falls/fees-facilities/campsites",
+        "snapshot": "research/pedernales-falls-camping.txt",
+        "sha256": "49458c0598ca70d75f7dc64092e371fc7c6f445387862cd391f8af86576c3398",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/pedernales-falls/fees-facilities/entrance-fees",
+        "snapshot": "research/pedernales-falls-fees.txt",
+        "sha256": "5610ae3251d0ef58cbc626cc65bd1e95255415c7817fdc015cb9aeef8efb2ac1",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "possum-kingdom",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/possum-kingdom",
+        "snapshot": "research/possum-kingdom-home.txt",
+        "sha256": "cdf27035a10bc16045003da78d0e6ba9214f5cfbde4b0597b157cb31aebbd0d8",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/possum-kingdom/fees-facilities/campsites",
+        "snapshot": "research/possum-kingdom-camping.txt",
+        "sha256": "3bd21c07803771a1db97042b0d27613d38b3b3f08f9bba184343f86a7df00ce2",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/possum-kingdom/fees-facilities/entrance-fees",
+        "snapshot": "research/possum-kingdom-fees.txt",
+        "sha256": "2115eef082da1956700016ce48cf1299077581ae764ea4d51b7ff1fd6ba741b6",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "purtis-creek",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/purtis-creek",
+        "snapshot": "research/purtis-creek-home.txt",
+        "sha256": "9ca6a8b1bf2bf6b65a9fadca0866540db45c6e88fa6ff038adf70030bbc58a74",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/purtis-creek/fees-facilities/campsites",
+        "snapshot": "research/purtis-creek-camping.txt",
+        "sha256": "ad4540de3e29b43b599697ab0acb7db8c22fb8aa7f6edcfb5c91462096410443",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/purtis-creek/fees-facilities/entrance-fees",
+        "snapshot": "research/purtis-creek-fees.txt",
+        "sha256": "15d39f5429c41411a5a3e167c073bd8ff714ef68add5863e98e0adb3aaff77e0",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "ray-roberts-lake",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/ray-roberts-lake",
+        "snapshot": "research/ray-roberts-lake-home.txt",
+        "sha256": "b2f0f1b3cccf3d1cd0e5613ed081a2e06b5eab88df8599922fd9a536e7dabac0",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/ray-roberts-lake/fees-facilities/campsites",
+        "snapshot": "research/ray-roberts-lake-camping.txt",
+        "sha256": "f6133127631a1920fdada4c48dd4d60f93ea7d1d398ac640bf4e4618cb018690",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/ray-roberts-lake/fees-facilities/entrance-fees",
+        "snapshot": "research/ray-roberts-lake-fees.txt",
+        "sha256": "295dfe88115d032e7b3fa1c1fadb4ec8817986ab4dd822eaddf4b55772c3f903",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "san-angelo",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/san-angelo",
+        "snapshot": "research/san-angelo-home.txt",
+        "sha256": "fd0e8ecee2f642d7215bbc911a26892438b6ba84bda61203da4071b925881b4a",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/san-angelo/fees-facilities/campsites",
+        "snapshot": "research/san-angelo-camping.txt",
+        "sha256": "867d7cca8c46303f90cfd1a36a5d37413077a9be8e35708c321f35dd882c09bd",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/san-angelo/fees-facilities/entrance-fees",
+        "snapshot": "research/san-angelo-fees.txt",
+        "sha256": "8071d1d8954298a579aed2690fd46e17e9e9b3fd0ca640c679ce3cae4f169699",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "sea-rim",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/sea-rim",
+        "snapshot": "research/sea-rim-home.txt",
+        "sha256": "1173443db8f19b3eb672fbc669e86d83cada67455695a6b711fc92591d1732ee",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/sea-rim/fees-facilities/campsites",
+        "snapshot": "research/sea-rim-camping.txt",
+        "sha256": "8a07f351cf2e6581148f5c8a973f1b41ec75fafd278c33eda904e24cd83513e8",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/sea-rim/fees-facilities/entrance-fees",
+        "snapshot": "research/sea-rim-fees.txt",
+        "sha256": "9bfeab01f282f784f93ce06f16ec46361f16a571d44df91b86bf9472ebdf1007",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "seminole-canyon",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/seminole-canyon",
+        "snapshot": "research/seminole-canyon-home.txt",
+        "sha256": "256b6c4ddad73ac6b9af37ad841ba3ce481c8359a752cea2eeb6a1495730819c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/seminole-canyon/fees-facilities/campsites",
+        "snapshot": "research/seminole-canyon-camping.txt",
+        "sha256": "16fb84baecce26c064ac0ebf72d5172f8d3b26ec648ccd70c93db23f34b887ce",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/seminole-canyon/fees-facilities/entrance-fees",
+        "snapshot": "research/seminole-canyon-fees.txt",
+        "sha256": "5720b0a5d76a44f1e6f7fc0cd8d9151bfd00b3becd460befc77ec71bab324ba5",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "south-llano-river",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/south-llano-river",
+        "snapshot": "research/south-llano-river-home.txt",
+        "sha256": "558d0989cc770f7c887fbbe1d0dc6d053dbe9c13e75d5203bfe033855f4c7520",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/south-llano-river/fees-facilities/campsites",
+        "snapshot": "research/south-llano-river-camping.txt",
+        "sha256": "a244a132aad7a0c59db3177c4df4c62451c2fe8145785ffd9ff45e6e7be722d5",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/south-llano-river/fees-facilities/entrance-fees",
+        "snapshot": "research/south-llano-river-fees.txt",
+        "sha256": "53fbcfaaf3b366ed5a16731c4bbb79160f20930b9eb963f0ef44af22f423b425",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "stephen-f-austin",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/stephen-f-austin",
+        "snapshot": "research/stephen-f-austin-home.txt",
+        "sha256": "c338fdcced6ba90d333404bc9b7f6e702f4ea0f7a81072d97189b90175f94899",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/stephen-f-austin/fees-facilities/campsites",
+        "snapshot": "research/stephen-f-austin-camping.txt",
+        "sha256": "e4fd752fced58f28722a5f4d7d946c7bebeb82613e2724b6c9fc3f36cb34d94c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/stephen-f-austin/fees-facilities/entrance-fees",
+        "snapshot": "research/stephen-f-austin-fees.txt",
+        "sha256": "cb515b836ee48131474f166a6d0e5906b67d512d0561d5fbff26891a81ea0138",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "tyler",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/tyler",
+        "snapshot": "research/tyler-home.txt",
+        "sha256": "4ec6117f3436cb6fe86d558c59e128b99b04e74922411da1aeb3410d1e0fd2c9",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/tyler/fees-facilities/campsites",
+        "snapshot": "research/tyler-camping.txt",
+        "sha256": "7f4e037e37e99afcae56a7636d34ce61129994802215c144103c5f0471cd8af2",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/tyler/fees-facilities/entrance-fees",
+        "snapshot": "research/tyler-fees.txt",
+        "sha256": "6cd8259425a2847eb10f5b56b4ba4d3e288e76e52ee7601fc74ae579f21672db",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  },
+  {
+    "slug": "village-creek",
+    "pages": [
+      {
+        "url": "https://tpwd.texas.gov/state-parks/village-creek",
+        "snapshot": "research/village-creek-home.txt",
+        "sha256": "c2220001d7316430018c09fd0de060024a6091280ddd343d4bde02356ee0b16e",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/village-creek/fees-facilities/campsites",
+        "snapshot": "research/village-creek-camping.txt",
+        "sha256": "7661a1c755cfd32022e95593acc52798f85f0f40ac8ac9bc29031b7ae0d48b44",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      },
+      {
+        "url": "https://tpwd.texas.gov/state-parks/village-creek/fees-facilities/entrance-fees",
+        "snapshot": "research/village-creek-fees.txt",
+        "sha256": "adc3b1c1ce0638ba9030420ef2d12463c630eaf334583eb698dfa8f3189bc62c",
+        "dump_fee_blocks": [],
+        "dump_mentions": []
+      }
+    ]
+  }
+]

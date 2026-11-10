@@ -1,0 +1,37 @@
+[
+  {
+    "domain": "texasrvdumpstations.com",
+    "http_status": 404,
+    "status": "No RDAP registration found; apparent availability, confirm before purchase",
+    "checked": "2026-11-10",
+    "lookup_url": "https://rdap.verisign.com/com/v1/domain/texasrvdumpstations.com"
+  },
+  {
+    "domain": "rvdumpstationstexas.com",
+    "http_status": 404,
+    "status": "No RDAP registration found; apparent availability, confirm before purchase",
+    "checked": "2026-11-10",
+    "lookup_url": "https://rdap.verisign.com/com/v1/domain/rvdumpstationstexas.com"
+  },
+  {
+    "domain": "texasrvdumpstations.net",
+    "http_status": 404,
+    "status": "No RDAP registration found; apparent availability, confirm before purchase",
+    "checked": "2026-11-10",
+    "lookup_url": "https://rdap.verisign.com/net/v1/domain/texasrvdumpstations.net"
+  },
+  {
+    "domain": "rvdumpstationsusa.com",
+    "http_status": 404,
+    "status": "No RDAP registration found; apparent availability, confirm before purchase",
+    "checked": "2026-11-10",
+    "lookup_url": "https://rdap.verisign.com/com/v1/domain/rvdumpstationsusa.com"
+  },
+  {
+    "domain": "findrvdumpstations.com",
+    "http_status": 404,
+    "status": "No RDAP registration found; apparent availability, confirm before purchase",
+    "checked": "2026-11-10",
+    "lookup_url": "https://rdap.verisign.com/com/v1/domain/findrvdumpstations.com"
+  }
+]
