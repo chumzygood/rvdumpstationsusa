@@ -1,0 +1,541 @@
+[
+  {
+    "id": "usace-navarro-liberty-hill-park",
+    "property_name": "Liberty Hill Park — Navarro Mills Lake",
+    "name": "Liberty Hill Park — Navarro Mills Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Navarro Mills Lake area",
+    "address": {
+      "street": null,
+      "city": "Navarro Mills Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "USACE: the gatehouse is open for business between 6:00 a.m. and 10:00 p.m. (gatehouse hours, not confirmed dump-station hours).",
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-navarro.txt",
+        "sha256": "31a61ff9e0f32aae09b7f0b230c09a43a3bc4578babca544cbf6feebf1532830",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "The following fees are only charged to members of the public who have not paid the standard camping fees. Dump Station Fee $4.00 (listed in this park’s section)."
+      }
+    ],
+    "question_overrides": {
+      "fee": {
+        "status": "documented",
+        "answer": "$4.00 dump station fee for members of the public who have not paid the standard camping fees (USACE Navarro Mills park fee list). Campers who paid camping fees are not charged this fee.",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      },
+      "non_guest_access": {
+        "status": "documented",
+        "answer": "Yes — USACE lists a $4.00 dump station fee charged to members of the public who have not paid camping fees. Fees are collected at the gatehouse.",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      }
+    }
+  },
+  {
+    "id": "usace-navarro-wolf-creek-park",
+    "property_name": "Wolf Creek Park — Navarro Mills Lake",
+    "name": "Wolf Creek Park — Navarro Mills Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Navarro Mills Lake area",
+    "address": {
+      "street": null,
+      "city": "Navarro Mills Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "USACE: “The park is open from April 1 through September 30.” As of 2026-11-12 this is outside the listed season; do not expect access until the park reopens. Check with the operator.",
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      },
+      {
+        "text": "USACE: the gatehouse is open for business between 6:00 a.m. and 10:00 p.m. (gatehouse hours, not confirmed dump-station hours).",
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-navarro.txt",
+        "sha256": "31a61ff9e0f32aae09b7f0b230c09a43a3bc4578babca544cbf6feebf1532830",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "The following fees are only charged to members of the public who have not paid the standard camping fees. Dump Station Fee $4.00 (listed in this park’s section)."
+      }
+    ],
+    "question_overrides": {
+      "fee": {
+        "status": "documented",
+        "answer": "$4.00 dump station fee for members of the public who have not paid the standard camping fees (USACE Navarro Mills park fee list). Campers who paid camping fees are not charged this fee.",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      },
+      "non_guest_access": {
+        "status": "documented",
+        "answer": "Yes — USACE lists a $4.00 dump station fee charged to members of the public who have not paid camping fees. Fees are collected at the gatehouse.",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      },
+      "seasonal": {
+        "status": "documented",
+        "answer": "USACE park/campground season: “The park is open from April 1 through September 30.” (park season; a separate dump-station season is not stated).",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      }
+    }
+  },
+  {
+    "id": "usace-navarro-oak-park",
+    "property_name": "Oak Park — Navarro Mills Lake",
+    "name": "Oak Park — Navarro Mills Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Navarro Mills Lake area",
+    "address": {
+      "street": null,
+      "city": "Navarro Mills Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "USACE: the gatehouse is open for business between 6:00 a.m. and 10:00 p.m. (gatehouse hours, not confirmed dump-station hours).",
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-navarro.txt",
+        "sha256": "31a61ff9e0f32aae09b7f0b230c09a43a3bc4578babca544cbf6feebf1532830",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "The following fees are only charged to members of the public who have not paid the standard camping fees. Dump Station Fee $4.00 (listed in this park’s section)."
+      }
+    ],
+    "question_overrides": {
+      "fee": {
+        "status": "documented",
+        "answer": "$4.00 dump station fee for members of the public who have not paid the standard camping fees (USACE Navarro Mills park fee list). Campers who paid camping fees are not charged this fee.",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      },
+      "non_guest_access": {
+        "status": "documented",
+        "answer": "Yes — USACE lists a $4.00 dump station fee charged to members of the public who have not paid camping fees. Fees are collected at the gatehouse.",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      }
+    }
+  },
+  {
+    "id": "usace-navarro-pecan-point-park",
+    "property_name": "Pecan Point Park — Navarro Mills Lake",
+    "name": "Pecan Point Park — Navarro Mills Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Navarro Mills Lake area",
+    "address": {
+      "street": null,
+      "city": "Navarro Mills Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "USACE: “The park is open April 1 - September 30.” As of 2026-11-12 this is outside the listed season; do not expect access until the park reopens. Check with the operator.",
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      },
+      {
+        "text": "USACE: the gatehouse is open for business between 6:00 a.m. and 10:00 p.m. (gatehouse hours, not confirmed dump-station hours).",
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-navarro.txt",
+        "sha256": "31a61ff9e0f32aae09b7f0b230c09a43a3bc4578babca544cbf6feebf1532830",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Pecan Point Park offers 5 campsites with water and 50 amp electric service, 30 sites without hookups, public restrooms and a dump station. The following fees are only charged to members of the public who have not paid the standard camping fees. Dump Station Fee $4.00 (listed in this park’s section)."
+      }
+    ],
+    "question_overrides": {
+      "fee": {
+        "status": "documented",
+        "answer": "$4.00 dump station fee for members of the public who have not paid the standard camping fees (USACE Navarro Mills park fee list). Campers who paid camping fees are not charged this fee.",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      },
+      "non_guest_access": {
+        "status": "documented",
+        "answer": "Yes — USACE lists a $4.00 dump station fee charged to members of the public who have not paid camping fees. Fees are collected at the gatehouse.",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      },
+      "seasonal": {
+        "status": "documented",
+        "answer": "USACE park/campground season: “The park is open April 1 - September 30.” (park season; a separate dump-station season is not stated).",
+        "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+      }
+    }
+  },
+  {
+    "id": "usace-bardwell-high-view-park",
+    "property_name": "High View Park — Bardwell Lake",
+    "name": "High View Park — Bardwell Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Bardwell Lake area",
+    "address": {
+      "street": null,
+      "city": "Bardwell Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-bardwell.txt",
+        "sha256": "5b7ebf84c851eec828556cee7540ca8c49bef68caf79264dcedcf18a811ac2b8",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Existing facilities include a peak hour attended entrance station, sanitary dump station, 39 campsites with water and electric hook-ups, one vault toilet and two waterborne restrooms with showers, one 4-lane boat ramp, one courtesy dock, and 10 picnic sites."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-bardwell-mott-park",
+    "property_name": "Mott Park — Bardwell Lake",
+    "name": "Mott Park — Bardwell Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Bardwell Lake area",
+    "address": {
+      "street": null,
+      "city": "Bardwell Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-bardwell.txt",
+        "sha256": "5b7ebf84c851eec828556cee7540ca8c49bef68caf79264dcedcf18a811ac2b8",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Existing facilities include a peak hour attended entrance station, sanitary dump station, 33 campsites with water and electric hook-ups, a day use picnic area, one vault toilet and one waterborne restroom with showers, one 4-lane boat ramp, one courtesy dock, and one group camping shelter."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-lewisville-hickory-creek-park",
+    "property_name": "Hickory Creek Park — Lewisville Lake",
+    "name": "Hickory Creek Park — Lewisville Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Hickory Creek",
+    "address": {
+      "street": "1201 Point Vista Rd.",
+      "city": "Hickory Creek",
+      "region": "TX",
+      "postal_code": "75065",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "USACE: gate attendant on duty during open hours, 10am–10pm (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.swf-wc.usace.army.mil/lewisville/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/lewisville/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/lewisville/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/lewisville/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-lewisville.txt",
+        "sha256": "bc4b58068aa75b6061fbdd4524dde1bfe7d8323d45ce051f60958919d1e4b9ec",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Hickory Creek Park Amenities: Camping sites with water and electrical hookups, picnic tables, grills and fire rings ($30 per night) Boatramp (for campers only) Restrooms with showers Dump station Shoreline access for fishing Walking/Biking trail Gate attendant on duty during open hours, 10am-10pm Take a virtual tour of Hickory Creek Park."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-wrightpatman-clear-springs-campground",
+    "property_name": "Clear Springs Campground — Wright Patman Lake",
+    "name": "Clear Springs Campground — Wright Patman Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Wright Patman Lake area",
+    "address": {
+      "street": null,
+      "city": "Wright Patman Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-wrightpatman.txt",
+        "sha256": "43550661ff5137352920fad8f4c6c8534c35d2fdf1d55337c8355e46b70f926f",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Other amenities in the park include three restroom buildings with showers, day use pavilion, trailer dump station, blue boy dump station, fish cleaning station, boat ramp with courtesy dock, swim beach, nature trails, volleyball court, basketball court, playgrounds, and three screened shelters."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-wrightpatman-piney-point-campground",
+    "property_name": "Piney Point Campground — Wright Patman Lake",
+    "name": "Piney Point Campground — Wright Patman Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Wright Patman Lake area",
+    "address": {
+      "street": null,
+      "city": "Wright Patman Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "USACE: “Campground open March 1 - September 30.” As of 2026-11-12 this is outside the listed season; do not expect access until the park reopens. Check with the operator.",
+        "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-wrightpatman.txt",
+        "sha256": "43550661ff5137352920fad8f4c6c8534c35d2fdf1d55337c8355e46b70f926f",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Other amenities in the park include one restroom building with showers, a vault restroom, day use pavilion, playgrounds, nature trail, boat ramp with courtesy dock, trailer dump station, and a volleyball court."
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "USACE park/campground season: “Campground open March 1 - September 30.” (park season; a separate dump-station season is not stated).",
+        "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml"
+      }
+    }
+  },
+  {
+    "id": "usace-wrightpatman-rocky-point-campground",
+    "property_name": "Rocky Point Campground — Wright Patman Lake",
+    "name": "Rocky Point Campground — Wright Patman Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Wright Patman Lake area",
+    "address": {
+      "street": null,
+      "city": "Wright Patman Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-wrightpatman.txt",
+        "sha256": "43550661ff5137352920fad8f4c6c8534c35d2fdf1d55337c8355e46b70f926f",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Other amenities in the park include three restroom buildings with showers, trailer dump station, fish cleaning station, boat ramp with courtesy dock, day-use pavilion, amphitheater, playground, nature trails, swim beach, basketball court, and volleyball court."
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "USACE park/campground season: “Open year-round.” (park season; a separate dump-station season is not stated).",
+        "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml"
+      }
+    }
+  },
+  {
+    "id": "usace-wrightpatman-malden-lake-campground",
+    "property_name": "Malden Lake Campground — Wright Patman Lake",
+    "name": "Malden Lake Campground — Wright Patman Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Wright Patman Lake area",
+    "address": {
+      "street": null,
+      "city": "Wright Patman Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-12",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-wrightpatman.txt",
+        "sha256": "43550661ff5137352920fad8f4c6c8534c35d2fdf1d55337c8355e46b70f926f",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Other amenities in the park include one restroom building with showers, boat ramp with courtesy dock, trailer dump station, playgrounds, and a walking trail."
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "USACE park/campground season: “Open October through May, closed June through September.” (park season; a separate dump-station season is not stated).",
+        "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml"
+      }
+    }
+  }
+]

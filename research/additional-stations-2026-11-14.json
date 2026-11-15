@@ -1,0 +1,303 @@
+[
+  {
+    "id": "usace-somerville-rocky-creek",
+    "property_name": "Rocky Creek Park — Somerville Lake",
+    "name": "Rocky Creek Park — Somerville Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Somerville Lake area",
+    "address": {
+      "street": null,
+      "city": "Somerville Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-14",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232695",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232695",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232695",
+        "snapshot": "research/recgov-232695.json",
+        "sha256": "ca877e95542cd64f8e6d068bfc6c61257e7123e81aaeace1ad1368129d009ac1",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232695) on 2026-11-14.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Two boat ramps, group picnic shelter, and dump station are located on-site.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-benbrook-holiday-park",
+    "property_name": "Holiday Park — Benbrook Lake",
+    "name": "Holiday Park — Benbrook Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Benbrook Lake area",
+    "address": {
+      "street": null,
+      "city": "Benbrook Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-14",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232607",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232607",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232607",
+        "snapshot": "research/recgov-232607.json",
+        "sha256": "dcc1c9469a01a82fecd14dbc91e3227f00fe2ee7fbdc3a0a8ac3e13ab26bfe9b",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232607) on 2026-11-14.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Holiday Park offers a variety of camping sites including with utility hookups, screened shelters, an equestrian campsite, and walk-in only tent sites, restrooms with showers, and trailer dump stations.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “Holiday Park campground is the main park for individual and family camping year-round.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/232607"
+      }
+    }
+  },
+  {
+    "id": "usace-proctor-copperas-creek",
+    "property_name": "Copperas Creek Park — Proctor Lake",
+    "name": "Copperas Creek Park — Proctor Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Proctor Lake area",
+    "address": {
+      "street": null,
+      "city": "Proctor Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-14",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232557",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232557",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232557",
+        "snapshot": "research/recgov-232557.json",
+        "sha256": "b5c9b59a9a2b650598473710f162aac99f2ead105eb3bb55646a4ed64eb5664d",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232557) on 2026-11-14.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Amenities include flush and pit toilets, showers, drinking water and a dump station thus creating a comfortable camping environment for visitors.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-lakeopines-brushy-creek",
+    "property_name": "Brushy Creek Park — Lake O' the Pines",
+    "name": "Brushy Creek Park — Lake O' the Pines — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lake O' the Pines area",
+    "address": {
+      "street": null,
+      "city": "Lake O' the Pines area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-14",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232534",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232534",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232534",
+        "snapshot": "research/recgov-232534.json",
+        "sha256": "d5a967f3cb232b6e046a15dab1375e59faad78d5ce96669e306992bd91736c5f",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232534) on 2026-11-14.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “A boat ramp, courtesy dock, playground, swimming beach, fishing dock, and sewer dump station are also provided.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-steinhagen-magnolia-ridge",
+    "property_name": "Magnolia Ridge Park — B. A. Steinhagen Lake",
+    "name": "Magnolia Ridge Park — B. A. Steinhagen Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Steinhagen Lake area",
+    "address": {
+      "street": null,
+      "city": "Steinhagen Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-14",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Park entrance gate closes nightly; campers may exit but vehicles cannot be driven into the park until morning without the gate code on Email receipt” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/232636"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232636",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232636",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232636",
+        "snapshot": "research/recgov-232636.json",
+        "sha256": "e9fd3b5bc04ae50bee1ea68ab813ac2485d3d59ae84a3d4f3cb40acb7df946e3",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232636) on 2026-11-14.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Flush toilets, showers and a dump station are provided.” “There are NO sewer hook-ups in the park, only a dump station”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “Magnolia Ridge Park is a year-round campground that offers 41 reservable campsites, 39 of which have water and electric hookups.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/232636"
+      }
+    }
+  },
+  {
+    "id": "usace-samrayburn-rayburn-park",
+    "property_name": "Rayburn Park — Sam Rayburn Reservoir",
+    "name": "Rayburn Park — Sam Rayburn Reservoir — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Sam Rayburn Reservoir area",
+    "address": {
+      "street": null,
+      "city": "Sam Rayburn Reservoir area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-14",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232685",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232685",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232685",
+        "snapshot": "research/recgov-232685.json",
+        "sha256": "7add4738ab39d32733d85d8302aa5830e59f0dce5e93169bbf9f45725ae8b2c9",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232685) on 2026-11-14.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “All waste water, including gray water, must be properly disposed of at the park dump stations.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “Rayburn park is open year-round and features 16 campsites with water and 50 amp electric hookups.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/232685"
+      }
+    }
+  },
+  {
+    "id": "usace-lavon-east-fork",
+    "property_name": "East Fork Park — Lavon Lake",
+    "name": "East Fork Park — Lavon Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lavon Lake area",
+    "address": {
+      "street": null,
+      "city": "Lavon Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-14",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “The park entrance gate closes at 10 p.m., and the gate re-opens at 10 a.m.” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/232583"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232583",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232583",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232583",
+        "snapshot": "research/recgov-232583.json",
+        "sha256": "cad79d628767913b44af62fe7e961f9a9f2a3586a659263b03bcc9b6fd53569a",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232583) on 2026-11-14.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "“There are not sewer hook-ups at the campsite, but there is a dump station located near the park entrance.”"
+      }
+    ],
+    "question_overrides": {}
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "id": "usace-stillhouse-dana-peak-park",
+    "property_name": "Dana Peak Park — Stillhouse Hollow Lake",
+    "name": "Dana Peak Park — Stillhouse Hollow Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Stillhouse Hollow Lake area",
+    "address": {
+      "street": null,
+      "city": "Stillhouse Hollow Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-11",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "The park is open year round but the swimbeach and picnic area close from October 1 through the end of February. Park entrance hours are from 6:00 am to 8:00 pm (park entrance hours, not confirmed dump-station hours).",
+        "url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-stillhouse.txt",
+        "sha256": "c25f9330c62dcea933cdf5b8500880fab15e76209f6196572edf7a87c2e36157",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "A sanitary dump station is available near the entrance to the camping facilities."
+      }
+    ]
+  },
+  {
+    "id": "usace-stillhouse-union-grove-park",
+    "property_name": "Union Grove Park — Stillhouse Hollow Lake",
+    "name": "Union Grove Park — Stillhouse Hollow Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Stillhouse Hollow Lake area",
+    "address": {
+      "street": null,
+      "city": "Stillhouse Hollow Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-11",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Union Grove Park is open year round but from October 1 through the end of February, campsite availability is limited. Park entrance hours are from 6:00 am to 8:00 pm (park entrance hours, not confirmed dump-station hours).",
+        "url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-stillhouse.txt",
+        "sha256": "c25f9330c62dcea933cdf5b8500880fab15e76209f6196572edf7a87c2e36157",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Other amenities offered within the campground include a sanitary dump station, a desingated swim beach, playgound and 2 waterborne restrooms with showers."
+      }
+    ]
+  },
+  {
+    "id": "usace-georgetown-cedar-breaks-park",
+    "property_name": "Cedar Breaks Park — Lake Georgetown",
+    "name": "Cedar Breaks Park — Lake Georgetown — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lake Georgetown area",
+    "address": {
+      "street": null,
+      "city": "Lake Georgetown area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-11",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "A valid pass, online payment, or camping reservation is required for entry into Cedar Breaks, Jim Hogg, and Russell Parks; payment is no longer accepted in the gate houses (Recreation.gov or park QR codes). Gates close at 10:00pm and reopen at 6:00am.",
+        "url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-georgetown.txt",
+        "sha256": "3c7ff34142a610fcdd4407bcb600957851d617cc40f94399fb50015625cc199c",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "A dump station is provided for the disposal of wastewater and the restrooms have hot showers and flush toilets."
+      }
+    ]
+  },
+  {
+    "id": "usace-georgetown-jim-hogg-park",
+    "property_name": "Jim Hogg Park — Lake Georgetown",
+    "name": "Jim Hogg Park — Lake Georgetown — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lake Georgetown area",
+    "address": {
+      "street": null,
+      "city": "Lake Georgetown area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-11",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "A valid pass, online payment, or camping reservation is required for entry into Cedar Breaks, Jim Hogg, and Russell Parks; payment is no longer accepted in the gate houses (Recreation.gov or park QR codes). Gates close at 10:00pm and reopen at 6:00am.",
+        "url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-georgetown.txt",
+        "sha256": "3c7ff34142a610fcdd4407bcb600957851d617cc40f94399fb50015625cc199c",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "A dump station is provided for the disposal of wastewater and the restrooms have hot showers and flush toilets."
+      }
+    ]
+  },
+  {
+    "id": "usace-whitney-lofers-bend-east",
+    "property_name": "Lofers Bend East — Whitney Lake",
+    "name": "Lofers Bend East — Whitney Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Whitney Lake area",
+    "address": {
+      "street": null,
+      "city": "Whitney Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-11",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "USACE: Lofers Bend East is usually closed from October 1 to March 31 for the winter season. Dump-station access during the closure is not confirmed; check with the operator before travel.",
+        "url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml"
+      }
+    ],
+    "source_url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-whitney.txt",
+        "sha256": "f8fa24233ba2057fa24663750ba88c50442e5e7775ab6f07d9b700a4fd457ca5",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "The park has three restrooms with showers, a trailer dump station, and two boat ramps."
+      }
+    ]
+  },
+  {
+    "id": "usace-whitney-mccown-valley",
+    "property_name": "McCown Valley — Whitney Lake",
+    "name": "McCown Valley — Whitney Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Whitney Lake area",
+    "address": {
+      "street": null,
+      "city": "Whitney Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-11",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+    "operator_url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+    "sources": [
+      {
+        "url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+        "snapshot": "research/usace-whitney.txt",
+        "sha256": "f8fa24233ba2057fa24663750ba88c50442e5e7775ab6f07d9b700a4fd457ca5",
+        "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "The park has two restrooms with showers, horseshoe pits, a trailer dump station, and a large, three lane boat ramp."
+      }
+    ]
+  }
+]

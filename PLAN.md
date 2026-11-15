@@ -7,9 +7,10 @@ Updated November 10, 2026 (EST), following Chanoch's national-site/domain/full-s
 Brand/domain: **RV Dump Stations USA**, https://rvdumpstationsusa.com.
 Nationwide project with **Texas as the only live state**. The other 49 states appear as coming-soon text, without empty pages or unverified listings.
 
-Current inventory: **76 operator-listed properties**:
+Current inventory (Nov 15, 2026): **117 operator-listed properties** (Nov 11–15 additions published Nov 15):
 - 64 Texas Parks and Wildlife Department state-park properties.
-- 6 U.S. Army Corps of Engineers campgrounds.
+- 43 U.S. Army Corps of Engineers campgrounds.
+- 2 USDA Forest Service recreation areas and 2 National Park Service campgrounds (Big Bend).
 - 6 travel centers: 3 Love's and 3 TA.
 
 Count properties, not dump lanes. Closed Kickapoo Cavern and the Barton Warnock lead remain withheld. No Pilot, Buc-ee's or TxDOT location was added without adequate location-specific official evidence; see research/coverage-notes.md. This is a data-readiness starting scope, not a claim of comprehensive Texas coverage or national demand validation.

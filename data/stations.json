@@ -8083,6 +8083,3232 @@
           "source_url": null
         }
       }
+    },
+    {
+      "id": "usace-stillhouse-dana-peak-park",
+      "property_name": "Dana Peak Park — Stillhouse Hollow Lake",
+      "name": "Dana Peak Park — Stillhouse Hollow Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Stillhouse Hollow Lake area",
+      "address": {
+        "street": null,
+        "city": "Stillhouse Hollow Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-11",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "The park is open year round but the swimbeach and picnic area close from October 1 through the end of February. Park entrance hours are from 6:00 am to 8:00 pm (park entrance hours, not confirmed dump-station hours).",
+          "url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-stillhouse.txt",
+          "sha256": "c25f9330c62dcea933cdf5b8500880fab15e76209f6196572edf7a87c2e36157",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "A sanitary dump station is available near the entrance to the camping facilities."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-stillhouse-union-grove-park",
+      "property_name": "Union Grove Park — Stillhouse Hollow Lake",
+      "name": "Union Grove Park — Stillhouse Hollow Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Stillhouse Hollow Lake area",
+      "address": {
+        "street": null,
+        "city": "Stillhouse Hollow Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-11",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Union Grove Park is open year round but from October 1 through the end of February, campsite availability is limited. Park entrance hours are from 6:00 am to 8:00 pm (park entrance hours, not confirmed dump-station hours).",
+          "url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/stillhouse/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-stillhouse.txt",
+          "sha256": "c25f9330c62dcea933cdf5b8500880fab15e76209f6196572edf7a87c2e36157",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Other amenities offered within the campground include a sanitary dump station, a desingated swim beach, playgound and 2 waterborne restrooms with showers."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-georgetown-cedar-breaks-park",
+      "property_name": "Cedar Breaks Park — Lake Georgetown",
+      "name": "Cedar Breaks Park — Lake Georgetown — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Lake Georgetown area",
+      "address": {
+        "street": null,
+        "city": "Lake Georgetown area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-11",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "A valid pass, online payment, or camping reservation is required for entry into Cedar Breaks, Jim Hogg, and Russell Parks; payment is no longer accepted in the gate houses (Recreation.gov or park QR codes). Gates close at 10:00pm and reopen at 6:00am.",
+          "url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-georgetown.txt",
+          "sha256": "3c7ff34142a610fcdd4407bcb600957851d617cc40f94399fb50015625cc199c",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "A dump station is provided for the disposal of wastewater and the restrooms have hot showers and flush toilets."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-georgetown-jim-hogg-park",
+      "property_name": "Jim Hogg Park — Lake Georgetown",
+      "name": "Jim Hogg Park — Lake Georgetown — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Lake Georgetown area",
+      "address": {
+        "street": null,
+        "city": "Lake Georgetown area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-11",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "A valid pass, online payment, or camping reservation is required for entry into Cedar Breaks, Jim Hogg, and Russell Parks; payment is no longer accepted in the gate houses (Recreation.gov or park QR codes). Gates close at 10:00pm and reopen at 6:00am.",
+          "url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/georgetown/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-georgetown.txt",
+          "sha256": "3c7ff34142a610fcdd4407bcb600957851d617cc40f94399fb50015625cc199c",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "A dump station is provided for the disposal of wastewater and the restrooms have hot showers and flush toilets."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-whitney-lofers-bend-east",
+      "property_name": "Lofers Bend East — Whitney Lake",
+      "name": "Lofers Bend East — Whitney Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Whitney Lake area",
+      "address": {
+        "street": null,
+        "city": "Whitney Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-11",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "USACE: Lofers Bend East is usually closed from October 1 to March 31 for the winter season. Dump-station access during the closure is not confirmed; check with the operator before travel.",
+          "url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-whitney.txt",
+          "sha256": "f8fa24233ba2057fa24663750ba88c50442e5e7775ab6f07d9b700a4fd457ca5",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "The park has three restrooms with showers, a trailer dump station, and two boat ramps."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-whitney-mccown-valley",
+      "property_name": "McCown Valley — Whitney Lake",
+      "name": "McCown Valley — Whitney Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Whitney Lake area",
+      "address": {
+        "street": null,
+        "city": "Whitney Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-11",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/whitney/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-whitney.txt",
+          "sha256": "f8fa24233ba2057fa24663750ba88c50442e5e7775ab6f07d9b700a4fd457ca5",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-11.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "The park has two restrooms with showers, horseshoe pits, a trailer dump station, and a large, three lane boat ramp."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-navarro-liberty-hill-park",
+      "property_name": "Liberty Hill Park — Navarro Mills Lake",
+      "name": "Liberty Hill Park — Navarro Mills Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Navarro Mills Lake area",
+      "address": {
+        "street": null,
+        "city": "Navarro Mills Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "USACE: the gatehouse is open for business between 6:00 a.m. and 10:00 p.m. (gatehouse hours, not confirmed dump-station hours).",
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-navarro.txt",
+          "sha256": "31a61ff9e0f32aae09b7f0b230c09a43a3bc4578babca544cbf6feebf1532830",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "The following fees are only charged to members of the public who have not paid the standard camping fees. Dump Station Fee $4.00 (listed in this park’s section)."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "documented",
+          "answer": "$4.00 dump station fee for members of the public who have not paid the standard camping fees (USACE Navarro Mills park fee list). Campers who paid camping fees are not charged this fee.",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "documented",
+          "answer": "Yes — USACE lists a $4.00 dump station fee charged to members of the public who have not paid camping fees. Fees are collected at the gatehouse.",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-navarro-wolf-creek-park",
+      "property_name": "Wolf Creek Park — Navarro Mills Lake",
+      "name": "Wolf Creek Park — Navarro Mills Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Navarro Mills Lake area",
+      "address": {
+        "street": null,
+        "city": "Navarro Mills Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "USACE: “The park is open from April 1 through September 30.” As of 2026-11-12 this is outside the listed season; do not expect access until the park reopens. Check with the operator.",
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        {
+          "text": "USACE: the gatehouse is open for business between 6:00 a.m. and 10:00 p.m. (gatehouse hours, not confirmed dump-station hours).",
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-navarro.txt",
+          "sha256": "31a61ff9e0f32aae09b7f0b230c09a43a3bc4578babca544cbf6feebf1532830",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "The following fees are only charged to members of the public who have not paid the standard camping fees. Dump Station Fee $4.00 (listed in this park’s section)."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "documented",
+          "answer": "$4.00 dump station fee for members of the public who have not paid the standard camping fees (USACE Navarro Mills park fee list). Campers who paid camping fees are not charged this fee.",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "documented",
+          "answer": "Yes — USACE lists a $4.00 dump station fee charged to members of the public who have not paid camping fees. Fees are collected at the gatehouse.",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "USACE park/campground season: “The park is open from April 1 through September 30.” (park season; a separate dump-station season is not stated).",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-navarro-oak-park",
+      "property_name": "Oak Park — Navarro Mills Lake",
+      "name": "Oak Park — Navarro Mills Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Navarro Mills Lake area",
+      "address": {
+        "street": null,
+        "city": "Navarro Mills Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "USACE: the gatehouse is open for business between 6:00 a.m. and 10:00 p.m. (gatehouse hours, not confirmed dump-station hours).",
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-navarro.txt",
+          "sha256": "31a61ff9e0f32aae09b7f0b230c09a43a3bc4578babca544cbf6feebf1532830",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "The following fees are only charged to members of the public who have not paid the standard camping fees. Dump Station Fee $4.00 (listed in this park’s section)."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "documented",
+          "answer": "$4.00 dump station fee for members of the public who have not paid the standard camping fees (USACE Navarro Mills park fee list). Campers who paid camping fees are not charged this fee.",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "documented",
+          "answer": "Yes — USACE lists a $4.00 dump station fee charged to members of the public who have not paid camping fees. Fees are collected at the gatehouse.",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-navarro-pecan-point-park",
+      "property_name": "Pecan Point Park — Navarro Mills Lake",
+      "name": "Pecan Point Park — Navarro Mills Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Navarro Mills Lake area",
+      "address": {
+        "street": null,
+        "city": "Navarro Mills Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "USACE: “The park is open April 1 - September 30.” As of 2026-11-12 this is outside the listed season; do not expect access until the park reopens. Check with the operator.",
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        {
+          "text": "USACE: the gatehouse is open for business between 6:00 a.m. and 10:00 p.m. (gatehouse hours, not confirmed dump-station hours).",
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-navarro.txt",
+          "sha256": "31a61ff9e0f32aae09b7f0b230c09a43a3bc4578babca544cbf6feebf1532830",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Pecan Point Park offers 5 campsites with water and 50 amp electric service, 30 sites without hookups, public restrooms and a dump station. The following fees are only charged to members of the public who have not paid the standard camping fees. Dump Station Fee $4.00 (listed in this park’s section)."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "documented",
+          "answer": "$4.00 dump station fee for members of the public who have not paid the standard camping fees (USACE Navarro Mills park fee list). Campers who paid camping fees are not charged this fee.",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "documented",
+          "answer": "Yes — USACE lists a $4.00 dump station fee charged to members of the public who have not paid camping fees. Fees are collected at the gatehouse.",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "USACE park/campground season: “The park is open April 1 - September 30.” (park season; a separate dump-station season is not stated).",
+          "source_url": "https://www.swf-wc.usace.army.mil/navarro/Recreation/Parks/Corpsparks.shtml"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-bardwell-high-view-park",
+      "property_name": "High View Park — Bardwell Lake",
+      "name": "High View Park — Bardwell Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Bardwell Lake area",
+      "address": {
+        "street": null,
+        "city": "Bardwell Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-bardwell.txt",
+          "sha256": "5b7ebf84c851eec828556cee7540ca8c49bef68caf79264dcedcf18a811ac2b8",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Existing facilities include a peak hour attended entrance station, sanitary dump station, 39 campsites with water and electric hook-ups, one vault toilet and two waterborne restrooms with showers, one 4-lane boat ramp, one courtesy dock, and 10 picnic sites."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-bardwell-mott-park",
+      "property_name": "Mott Park — Bardwell Lake",
+      "name": "Mott Park — Bardwell Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Bardwell Lake area",
+      "address": {
+        "street": null,
+        "city": "Bardwell Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/bardwell/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-bardwell.txt",
+          "sha256": "5b7ebf84c851eec828556cee7540ca8c49bef68caf79264dcedcf18a811ac2b8",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Existing facilities include a peak hour attended entrance station, sanitary dump station, 33 campsites with water and electric hook-ups, a day use picnic area, one vault toilet and one waterborne restroom with showers, one 4-lane boat ramp, one courtesy dock, and one group camping shelter."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-lewisville-hickory-creek-park",
+      "property_name": "Hickory Creek Park — Lewisville Lake",
+      "name": "Hickory Creek Park — Lewisville Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Hickory Creek",
+      "address": {
+        "street": "1201 Point Vista Rd.",
+        "city": "Hickory Creek",
+        "region": "TX",
+        "postal_code": "75065",
+        "country": "US",
+        "precision": "Operator property address; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "USACE: gate attendant on duty during open hours, 10am–10pm (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.swf-wc.usace.army.mil/lewisville/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/lewisville/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/lewisville/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/lewisville/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-lewisville.txt",
+          "sha256": "bc4b58068aa75b6061fbdd4524dde1bfe7d8323d45ce051f60958919d1e4b9ec",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Hickory Creek Park Amenities: Camping sites with water and electrical hookups, picnic tables, grills and fire rings ($30 per night) Boatramp (for campers only) Restrooms with showers Dump station Shoreline access for fishing Walking/Biking trail Gate attendant on duty during open hours, 10am-10pm Take a virtual tour of Hickory Creek Park."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-wrightpatman-clear-springs-campground",
+      "property_name": "Clear Springs Campground — Wright Patman Lake",
+      "name": "Clear Springs Campground — Wright Patman Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Wright Patman Lake area",
+      "address": {
+        "street": null,
+        "city": "Wright Patman Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-wrightpatman.txt",
+          "sha256": "43550661ff5137352920fad8f4c6c8534c35d2fdf1d55337c8355e46b70f926f",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Other amenities in the park include three restroom buildings with showers, day use pavilion, trailer dump station, blue boy dump station, fish cleaning station, boat ramp with courtesy dock, swim beach, nature trails, volleyball court, basketball court, playgrounds, and three screened shelters."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-wrightpatman-piney-point-campground",
+      "property_name": "Piney Point Campground — Wright Patman Lake",
+      "name": "Piney Point Campground — Wright Patman Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Wright Patman Lake area",
+      "address": {
+        "street": null,
+        "city": "Wright Patman Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "USACE: “Campground open March 1 - September 30.” As of 2026-11-12 this is outside the listed season; do not expect access until the park reopens. Check with the operator.",
+          "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml"
+        }
+      ],
+      "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-wrightpatman.txt",
+          "sha256": "43550661ff5137352920fad8f4c6c8534c35d2fdf1d55337c8355e46b70f926f",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Other amenities in the park include one restroom building with showers, a vault restroom, day use pavilion, playgrounds, nature trail, boat ramp with courtesy dock, trailer dump station, and a volleyball court."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "USACE park/campground season: “Campground open March 1 - September 30.” (park season; a separate dump-station season is not stated).",
+          "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-wrightpatman-rocky-point-campground",
+      "property_name": "Rocky Point Campground — Wright Patman Lake",
+      "name": "Rocky Point Campground — Wright Patman Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Wright Patman Lake area",
+      "address": {
+        "street": null,
+        "city": "Wright Patman Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-wrightpatman.txt",
+          "sha256": "43550661ff5137352920fad8f4c6c8534c35d2fdf1d55337c8355e46b70f926f",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Other amenities in the park include three restroom buildings with showers, trailer dump station, fish cleaning station, boat ramp with courtesy dock, day-use pavilion, amphitheater, playground, nature trails, swim beach, basketball court, and volleyball court."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "USACE park/campground season: “Open year-round.” (park season; a separate dump-station season is not stated).",
+          "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-wrightpatman-malden-lake-campground",
+      "property_name": "Malden Lake Campground — Wright Patman Lake",
+      "name": "Malden Lake Campground — Wright Patman Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Wright Patman Lake area",
+      "address": {
+        "street": null,
+        "city": "Wright Patman Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed. This is a lake-area listing, not a municipal-city or precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-12",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+      "operator_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+      "sources": [
+        {
+          "url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml",
+          "snapshot": "research/usace-wrightpatman.txt",
+          "sha256": "43550661ff5137352920fad8f4c6c8534c35d2fdf1d55337c8355e46b70f926f",
+          "capture_method": "Direct HTTPS request to the official USACE page on 2026-11-12.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Other amenities in the park include one restroom building with showers, boat ramp with courtesy dock, trailer dump station, playgrounds, and a walking trail."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "USACE park/campground season: “Open October through May, closed June through September.” (park season; a separate dump-station season is not stated).",
+          "source_url": "https://www.swf-wc.usace.army.mil/wrightpatman/Recreation/Parks/Corpsparks.shtml"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usfs-ratcliff-lake-recreation-area",
+      "property_name": "Ratcliff Lake Recreation Area — Davy Crockett National Forest",
+      "name": "Ratcliff Lake Recreation Area — Davy Crockett National Forest — RV dump station",
+      "operator": "USDA Forest Service",
+      "source_type": "federal_usfs",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Kennard",
+      "address": {
+        "street": "18551 State Highway 7 East",
+        "city": "Kennard",
+        "region": "TX",
+        "postal_code": "75487",
+        "country": "US",
+        "precision": "Operator-listed facility address on Recreation.gov; verify the dump-station location inside the recreation area."
+      },
+      "last_checked": "2026-11-13",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “The Day-use fee at Ratcliff is $5.00 per vehicle and is required for all day-use activities including the Group Shelters and Amphitheater.” (day-use fee; a dump-station fee is not stated).",
+          "url": "https://www.recreation.gov/camping/campgrounds/234362"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/234362",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/234362",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/234362",
+          "snapshot": "research/recgov-234362.json",
+          "sha256": "96b976ed278664416b64ff6d03a6b41a8e62a2739984074b4653e8c4cc09b245",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/234362) on 2026-11-13.",
+          "type": "federal_usfs",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “Camping is available year-round.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/234362"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usfs-double-lake-recreation-area",
+      "property_name": "Double Lake Recreation Area — Sam Houston National Forest",
+      "name": "Double Lake Recreation Area — Sam Houston National Forest — RV dump station",
+      "operator": "USDA Forest Service",
+      "source_type": "federal_usfs",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Coldspring",
+      "address": {
+        "street": "301 FM 2025",
+        "city": "Coldspring",
+        "region": "TX",
+        "postal_code": "77331",
+        "country": "US",
+        "precision": "Operator-listed facility address on Recreation.gov; verify the dump-station location inside the recreation area."
+      },
+      "last_checked": "2026-11-13",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “No access from 10 p.m.-6 a.m. for newly arriving campers” (camper arrival rule, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232430"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232430",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232430",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232430",
+          "snapshot": "research/recgov-232430.json",
+          "sha256": "e1f0905d1cb3dc1f84fc9a88a8df35d71a62e765124c4d1e2b795e0b1f1486ba",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232430) on 2026-11-13.",
+          "type": "federal_usfs",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "“Day use fee of $7 per vehicle per day; annual pass $30 per vehicle; walk-in or bicycle $1 per person per day; dump station use $5 per use”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "documented",
+          "answer": "$5 per use for the dump station (Recreation.gov notice: “Day use fee of $7 per vehicle per day; annual pass $30 per vehicle; walk-in or bicycle $1 per person per day; dump station use $5 per use”).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/232430"
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-patmayse-pat-mayse-west",
+      "property_name": "Pat Mayse West Campground — Pat Mayse Lake",
+      "name": "Pat Mayse West Campground — Pat Mayse Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Pat Mayse Lake area",
+      "address": {
+        "street": null,
+        "city": "Pat Mayse Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-13",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Entrance gate opens at 6 a.m. and closes at 10 p.m.; vehicles may leave at any time but cannot enter until the following morning” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/233579"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/233579",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/233579",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/233579",
+          "snapshot": "research/recgov-233579.json",
+          "sha256": "b5bff32a4ec9345f483406dbd69264776297d3de528cad720360d4eca8432948",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233579) on 2026-11-13.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Amenities include flush and pit toilets, showers, drinking water, a dump station and boat ramp.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “This year-round campground offers 88 sites, 83 of which have electric hookups.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/233579"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-patmayse-sanders-cove",
+      "property_name": "Sanders Cove Campground — Pat Mayse Lake",
+      "name": "Sanders Cove Campground — Pat Mayse Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Pat Mayse Lake area",
+      "address": {
+        "street": null,
+        "city": "Pat Mayse Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-13",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Entrance gate opens at 6 a.m. and closes at 10 p.m.; vehicles may leave at any time but cannot enter until the following morning” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/233617"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/233617",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/233617",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/233617",
+          "snapshot": "research/recgov-233617.json",
+          "sha256": "d2b419fec96f023863678c733ea3b146ccf4fa3b07e10731cc26d1f5ecb6ae8e",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233617) on 2026-11-13.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Amenities include flush and pit toilets, showers, drinking water, a dump station and boat ramp.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “This year-round campground offers 85 sites with electric hookups.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/233617"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-texoma-juniper-point",
+      "property_name": "Juniper Point Campground — Lake Texoma",
+      "name": "Juniper Point Campground — Lake Texoma — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Lake Texoma area",
+      "address": {
+        "street": null,
+        "city": "Lake Texoma area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-13",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Entrance gates are open from 6 a.m.-10 p.m.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/233527"
+        },
+        {
+          "text": "Recreation.gov: “Juniper East will be closed during the winter months from December 1 - February 28” Starting Dec 1, 2026 parts of the park close for the off season; check which loop’s dump station is open.",
+          "url": "https://www.recreation.gov/camping/campgrounds/233527"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/233527",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/233527",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/233527",
+          "snapshot": "research/recgov-233527.json",
+          "sha256": "fd84f0a1ad3aac0e5ef1c069f07c883b62dd5ecb9a8cb4e6c6f2887ef9791fed",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233527) on 2026-11-13.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Two dump stations, two boat ramps and two docks are located on-site.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “Park will be fully open from March 1 - November 30.” “Juniper East will be closed during the winter months from December 1 - February 28” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/233527"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-texoma-preston-bend",
+      "property_name": "Preston Bend Campground — Lake Texoma",
+      "name": "Preston Bend Campground — Lake Texoma — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Pottsboro",
+      "address": {
+        "street": "129 Preston Bend Park Road",
+        "city": "Pottsboro",
+        "region": "TX",
+        "postal_code": "75076",
+        "country": "US",
+        "precision": "Operator-listed campground address on Recreation.gov; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-13",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Entrance gates are open from 6 a.m.-10 p.m.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/233595"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/233595",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/233595",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/233595",
+          "snapshot": "research/recgov-233595.json",
+          "sha256": "17861837137616725d649a994302eb625ef0795f6d993c0e8852ba63d5ec41fe",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233595) on 2026-11-13.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “A dump station, boat ramp and dock are located on-site.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "nps-big-bend-rio-grande-village",
+      "property_name": "Rio Grande Village Campground — Big Bend National Park",
+      "name": "Rio Grande Village Campground — Big Bend National Park — RV dump station",
+      "operator": "National Park Service",
+      "source_type": "federal_nps",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Big Bend National Park area",
+      "address": {
+        "street": null,
+        "city": "Big Bend National Park area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-13",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Big Bend charges an entrance fee separate from the camping fee.” (park entrance fee; a dump-station fee is not stated).",
+          "url": "https://www.recreation.gov/camping/campgrounds/234035"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/234035",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/234035",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/234035",
+          "snapshot": "research/recgov-234035.json",
+          "sha256": "53694440b48c02118ecce02301d3ae0ce3164ba87934a34283e07439929b80c4",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/234035) on 2026-11-13.",
+          "type": "federal_nps",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “All campsites are within easy walking distance to water spigots, flush toilets, and utility sinks, and for those camping in motor homes and travel trailers, a fill/dump station is provided at the campground's entrance.” “There is a dump/fill station at the campground entrance.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-somerville-rocky-creek",
+      "property_name": "Rocky Creek Park — Somerville Lake",
+      "name": "Rocky Creek Park — Somerville Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Somerville Lake area",
+      "address": {
+        "street": null,
+        "city": "Somerville Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-14",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232695",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232695",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232695",
+          "snapshot": "research/recgov-232695.json",
+          "sha256": "ca877e95542cd64f8e6d068bfc6c61257e7123e81aaeace1ad1368129d009ac1",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232695) on 2026-11-14.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Two boat ramps, group picnic shelter, and dump station are located on-site.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-benbrook-holiday-park",
+      "property_name": "Holiday Park — Benbrook Lake",
+      "name": "Holiday Park — Benbrook Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Benbrook Lake area",
+      "address": {
+        "street": null,
+        "city": "Benbrook Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-14",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232607",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232607",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232607",
+          "snapshot": "research/recgov-232607.json",
+          "sha256": "dcc1c9469a01a82fecd14dbc91e3227f00fe2ee7fbdc3a0a8ac3e13ab26bfe9b",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232607) on 2026-11-14.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Holiday Park offers a variety of camping sites including with utility hookups, screened shelters, an equestrian campsite, and walk-in only tent sites, restrooms with showers, and trailer dump stations.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “Holiday Park campground is the main park for individual and family camping year-round.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/232607"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-proctor-copperas-creek",
+      "property_name": "Copperas Creek Park — Proctor Lake",
+      "name": "Copperas Creek Park — Proctor Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Proctor Lake area",
+      "address": {
+        "street": null,
+        "city": "Proctor Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-14",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232557",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232557",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232557",
+          "snapshot": "research/recgov-232557.json",
+          "sha256": "b5c9b59a9a2b650598473710f162aac99f2ead105eb3bb55646a4ed64eb5664d",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232557) on 2026-11-14.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Amenities include flush and pit toilets, showers, drinking water and a dump station thus creating a comfortable camping environment for visitors.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-lakeopines-brushy-creek",
+      "property_name": "Brushy Creek Park — Lake O' the Pines",
+      "name": "Brushy Creek Park — Lake O' the Pines — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Lake O' the Pines area",
+      "address": {
+        "street": null,
+        "city": "Lake O' the Pines area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-14",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232534",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232534",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232534",
+          "snapshot": "research/recgov-232534.json",
+          "sha256": "d5a967f3cb232b6e046a15dab1375e59faad78d5ce96669e306992bd91736c5f",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232534) on 2026-11-14.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “A boat ramp, courtesy dock, playground, swimming beach, fishing dock, and sewer dump station are also provided.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-steinhagen-magnolia-ridge",
+      "property_name": "Magnolia Ridge Park — B. A. Steinhagen Lake",
+      "name": "Magnolia Ridge Park — B. A. Steinhagen Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Steinhagen Lake area",
+      "address": {
+        "street": null,
+        "city": "Steinhagen Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-14",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Park entrance gate closes nightly; campers may exit but vehicles cannot be driven into the park until morning without the gate code on Email receipt” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232636"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232636",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232636",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232636",
+          "snapshot": "research/recgov-232636.json",
+          "sha256": "e9fd3b5bc04ae50bee1ea68ab813ac2485d3d59ae84a3d4f3cb40acb7df946e3",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232636) on 2026-11-14.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Flush toilets, showers and a dump station are provided.” “There are NO sewer hook-ups in the park, only a dump station”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “Magnolia Ridge Park is a year-round campground that offers 41 reservable campsites, 39 of which have water and electric hookups.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/232636"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-samrayburn-rayburn-park",
+      "property_name": "Rayburn Park — Sam Rayburn Reservoir",
+      "name": "Rayburn Park — Sam Rayburn Reservoir — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Sam Rayburn Reservoir area",
+      "address": {
+        "street": null,
+        "city": "Sam Rayburn Reservoir area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-14",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232685",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232685",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232685",
+          "snapshot": "research/recgov-232685.json",
+          "sha256": "7add4738ab39d32733d85d8302aa5830e59f0dce5e93169bbf9f45725ae8b2c9",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232685) on 2026-11-14.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “All waste water, including gray water, must be properly disposed of at the park dump stations.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “Rayburn park is open year-round and features 16 campsites with water and 50 amp electric hookups.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/232685"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-lavon-east-fork",
+      "property_name": "East Fork Park — Lavon Lake",
+      "name": "East Fork Park — Lavon Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Lavon Lake area",
+      "address": {
+        "street": null,
+        "city": "Lavon Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-14",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “The park entrance gate closes at 10 p.m., and the gate re-opens at 10 a.m.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232583"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232583",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232583",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232583",
+          "snapshot": "research/recgov-232583.json",
+          "sha256": "cad79d628767913b44af62fe7e961f9a9f2a3586a659263b03bcc9b6fd53569a",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232583) on 2026-11-14.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "“There are not sewer hook-ups at the campsite, but there is a dump station located near the park entrance.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-lakeopines-alley-creek",
+      "property_name": "Alley Creek Camp — Lake O' the Pines",
+      "name": "Alley Creek Camp — Lake O' the Pines — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Lake O' the Pines area",
+      "address": {
+        "street": null,
+        "city": "Lake O' the Pines area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Gate House Hours: 10am-6pm Monday through Saturday, 12pm-6pm Sunday” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232512"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232512",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232512",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232512",
+          "snapshot": "research/recgov-232512.json",
+          "sha256": "391328d74ae85ac34123f948cab3439f29649e6487731df9c257a038df8c6e43",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232512) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “A boat ramp, playground, swimming beach, and sewer dump station are also provided.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-lakeopines-buckhorn-creek",
+      "property_name": "Buckhorn Creek — Lake O' the Pines",
+      "name": "Buckhorn Creek — Lake O' the Pines — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Lake O' the Pines area",
+      "address": {
+        "street": null,
+        "city": "Lake O' the Pines area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Gate House Hours: 10am-6pm Monday through Saturday, 12pm-6pm Sunday.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232536"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232536",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232536",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232536",
+          "snapshot": "research/recgov-232536.json",
+          "sha256": "45cd5b0d0e4c2416b86209a3e92e5435ce35750780be37b3bfbcdcf01cd25a4a",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232536) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “A boat ramp, courtesy dock, playground, and sewer dump station are also provided.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-samrayburn-mill-creek",
+      "property_name": "Mill Creek Park — Sam Rayburn Reservoir",
+      "name": "Mill Creek Park — Sam Rayburn Reservoir — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Sam Rayburn Reservoir area",
+      "address": {
+        "street": null,
+        "city": "Sam Rayburn Reservoir area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232642",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232642",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232642",
+          "snapshot": "research/recgov-232642.json",
+          "sha256": "38504ee65810dd268a169d70fe11adf8e9eac5770d941a95d27a4db7e6b6a559",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232642) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “All waste water, including gray water, must be properly disposed of at the park dump stations.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-samrayburn-san-augustine",
+      "property_name": "San Augustine Park — Sam Rayburn Reservoir",
+      "name": "San Augustine Park — Sam Rayburn Reservoir — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Sam Rayburn Reservoir area",
+      "address": {
+        "street": null,
+        "city": "Sam Rayburn Reservoir area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232698",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232698",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232698",
+          "snapshot": "research/recgov-232698.json",
+          "sha256": "9463d92e52ebc8ef195e4e5b305762a3202e7df874e910e04af9ef6094b0fe24",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232698) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “All waste water, including gray water, must be properly disposed of at the park dump stations.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-samrayburn-twin-dikes",
+      "property_name": "Twin Dikes Park — Sam Rayburn Reservoir",
+      "name": "Twin Dikes Park — Sam Rayburn Reservoir — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Sam Rayburn Reservoir area",
+      "address": {
+        "street": null,
+        "city": "Sam Rayburn Reservoir area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232726",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232726",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232726",
+          "snapshot": "research/recgov-232726.json",
+          "sha256": "49e8da2ae46163c35cd912349e962609d2214e4b66ae781d43b5bd7265520360",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232726) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “All waste water, including gray water, must be properly disposed of at the park dump stations.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-steinhagen-sandy-creek",
+      "property_name": "Sandy Creek Park — B. A. Steinhagen Lake",
+      "name": "Sandy Creek Park — B. A. Steinhagen Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Steinhagen Lake area",
+      "address": {
+        "street": null,
+        "city": "Steinhagen Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Park gates close nightly; campers may exit but vehicles cannot be driven into the park until morning” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232699"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232699",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232699",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232699",
+          "snapshot": "research/recgov-232699.json",
+          "sha256": "7045b722547642df43ce83f0f7b81f9d2a1c449bc17547d98430b772053129da",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232699) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Flush and pit toilets, showers and a dump station are provided.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “Sandy Creek Park is open year-round and offers numerous campsites, 71 of which have water and electric hookups.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/232699"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-waco-reynolds-creek",
+      "property_name": "Reynolds Creek Park — Waco Lake",
+      "name": "Reynolds Creek Park — Waco Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Waco Lake area",
+      "address": {
+        "street": null,
+        "city": "Waco Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Park gates are locked at 10 pm and do not reopen until 6am.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232709"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232709",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232709",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232709",
+          "snapshot": "research/recgov-232709.json",
+          "sha256": "6ada8d16487e32b0e27776519e1a578dea765fb442ca978c8bf12483e4b26c95",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232709) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Central restrooms with showers, an RV dump station, a playground, lake side picnic tables in the day use areas and a boat ramp.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “Campground sites are open seasonally from April 1 to September 30, while equestrian sites remain open year-round.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/232709"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-whitney-plowman-creek",
+      "property_name": "Plowman Creek Park — Whitney Lake",
+      "name": "Plowman Creek Park — Whitney Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Whitney Lake area",
+      "address": {
+        "street": null,
+        "city": "Whitney Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Inbound gates open at 6 a.m. and close at 10 p.m.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232676"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232676",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232676",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232676",
+          "snapshot": "research/recgov-232676.json",
+          "sha256": "07befc1b564ea5a66cd3ecc8c739f392c1e4fea061547b529bdf590ecef95e2b",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232676) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “The park also has 2 restrooms with showers and a trailer dump station.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “This year-round campground offers 44 campsites in Plowman Creek.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/232676"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-whitney-kimball-bend",
+      "property_name": "Kimball Bend Park — Whitney Lake",
+      "name": "Kimball Bend Park — Whitney Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Whitney Lake area",
+      "address": {
+        "street": null,
+        "city": "Whitney Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Inbound gates open at 6 a.m. and close at 10 p.m.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/233170"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/233170",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/233170",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/233170",
+          "snapshot": "research/recgov-233170.json",
+          "sha256": "7ac4d16b612caa4ba20340278cf39a15bea74883cb884fab6d424cd6368382d4",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233170) on 2026-11-15.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Recreation.gov amenities list: “Dump Station”. “Amenities include flush toilets, showers, drinking water, a dump station and boat ramp. * Please note that water for this facility is supplied by an onsite Public Water Supply (PWS) and in the event of a power ouatage that lasts more than 24 hours visitors may be asked to evacuate the park since water cannot be provided.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "documented",
+          "answer": "Recreation.gov: “This year-round campground offers 34 sites with water and electric hookups.” (campground season; a separate dump-station season is not stated).",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/233170"
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "nps-big-bend-chisos-basin",
+      "property_name": "Chisos Basin Campground — Big Bend National Park",
+      "name": "Chisos Basin Campground — Big Bend National Park — RV dump station",
+      "operator": "National Park Service",
+      "source_type": "federal_nps",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Big Bend National Park area",
+      "address": {
+        "street": null,
+        "city": "Big Bend National Park area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-15",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “The dump station is oddly situated and requires EXTRA long hoses, as it's on the right side of the road, opposite from most RV sewer outlets.”",
+          "url": "https://www.recreation.gov/camping/campgrounds/234038"
+        },
+        {
+          "text": "Recreation.gov: “Big Bend charges an entrance fee separate from the camping fee.” (park entrance fee; a dump-station fee is not stated).",
+          "url": "https://www.recreation.gov/camping/campgrounds/234038"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/234038",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/234038",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/234038",
+          "snapshot": "research/recgov-234038.json",
+          "sha256": "5d558234fa4c96865f68af1acef8f2784a6fb9329d5a818531634d82cef85774",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/234038) on 2026-11-15.",
+          "type": "federal_nps",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "“Most campsites are within easy walking distance to drinking water and toilets, and a dump station is provided for RVs and trailers.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "documented",
+          "answer": "Recreation.gov: “The vehicle restriction for the road and campground is 24 feet (7 m) for motor homes and 20 feet (6 m) for travel trailers.” “Trailers over 19 feet and RVs over 24 feet are not recommended, and will not be accommodated.”",
+          "source_url": "https://www.recreation.gov/camping/campgrounds/234038"
+        }
+      }
     }
   ]
 }

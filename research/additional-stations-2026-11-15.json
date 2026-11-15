@@ -1,0 +1,461 @@
+[
+  {
+    "id": "usace-lakeopines-alley-creek",
+    "property_name": "Alley Creek Camp — Lake O' the Pines",
+    "name": "Alley Creek Camp — Lake O' the Pines — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lake O' the Pines area",
+    "address": {
+      "street": null,
+      "city": "Lake O' the Pines area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Gate House Hours: 10am-6pm Monday through Saturday, 12pm-6pm Sunday” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/232512"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232512",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232512",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232512",
+        "snapshot": "research/recgov-232512.json",
+        "sha256": "391328d74ae85ac34123f948cab3439f29649e6487731df9c257a038df8c6e43",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232512) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “A boat ramp, playground, swimming beach, and sewer dump station are also provided.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-lakeopines-buckhorn-creek",
+    "property_name": "Buckhorn Creek — Lake O' the Pines",
+    "name": "Buckhorn Creek — Lake O' the Pines — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lake O' the Pines area",
+    "address": {
+      "street": null,
+      "city": "Lake O' the Pines area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Gate House Hours: 10am-6pm Monday through Saturday, 12pm-6pm Sunday.” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/232536"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232536",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232536",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232536",
+        "snapshot": "research/recgov-232536.json",
+        "sha256": "45cd5b0d0e4c2416b86209a3e92e5435ce35750780be37b3bfbcdcf01cd25a4a",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232536) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “A boat ramp, courtesy dock, playground, and sewer dump station are also provided.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-samrayburn-mill-creek",
+    "property_name": "Mill Creek Park — Sam Rayburn Reservoir",
+    "name": "Mill Creek Park — Sam Rayburn Reservoir — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Sam Rayburn Reservoir area",
+    "address": {
+      "street": null,
+      "city": "Sam Rayburn Reservoir area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232642",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232642",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232642",
+        "snapshot": "research/recgov-232642.json",
+        "sha256": "38504ee65810dd268a169d70fe11adf8e9eac5770d941a95d27a4db7e6b6a559",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232642) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “All waste water, including gray water, must be properly disposed of at the park dump stations.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-samrayburn-san-augustine",
+    "property_name": "San Augustine Park — Sam Rayburn Reservoir",
+    "name": "San Augustine Park — Sam Rayburn Reservoir — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Sam Rayburn Reservoir area",
+    "address": {
+      "street": null,
+      "city": "Sam Rayburn Reservoir area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232698",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232698",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232698",
+        "snapshot": "research/recgov-232698.json",
+        "sha256": "9463d92e52ebc8ef195e4e5b305762a3202e7df874e910e04af9ef6094b0fe24",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232698) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “All waste water, including gray water, must be properly disposed of at the park dump stations.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-samrayburn-twin-dikes",
+    "property_name": "Twin Dikes Park — Sam Rayburn Reservoir",
+    "name": "Twin Dikes Park — Sam Rayburn Reservoir — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Sam Rayburn Reservoir area",
+    "address": {
+      "street": null,
+      "city": "Sam Rayburn Reservoir area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232726",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232726",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232726",
+        "snapshot": "research/recgov-232726.json",
+        "sha256": "49e8da2ae46163c35cd912349e962609d2214e4b66ae781d43b5bd7265520360",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232726) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “All waste water, including gray water, must be properly disposed of at the park dump stations.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "usace-steinhagen-sandy-creek",
+    "property_name": "Sandy Creek Park — B. A. Steinhagen Lake",
+    "name": "Sandy Creek Park — B. A. Steinhagen Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Steinhagen Lake area",
+    "address": {
+      "street": null,
+      "city": "Steinhagen Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Park gates close nightly; campers may exit but vehicles cannot be driven into the park until morning” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/232699"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232699",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232699",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232699",
+        "snapshot": "research/recgov-232699.json",
+        "sha256": "7045b722547642df43ce83f0f7b81f9d2a1c449bc17547d98430b772053129da",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232699) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Flush and pit toilets, showers and a dump station are provided.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “Sandy Creek Park is open year-round and offers numerous campsites, 71 of which have water and electric hookups.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/232699"
+      }
+    }
+  },
+  {
+    "id": "usace-waco-reynolds-creek",
+    "property_name": "Reynolds Creek Park — Waco Lake",
+    "name": "Reynolds Creek Park — Waco Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Waco Lake area",
+    "address": {
+      "street": null,
+      "city": "Waco Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Park gates are locked at 10 pm and do not reopen until 6am.” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/232709"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232709",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232709",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232709",
+        "snapshot": "research/recgov-232709.json",
+        "sha256": "6ada8d16487e32b0e27776519e1a578dea765fb442ca978c8bf12483e4b26c95",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232709) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Central restrooms with showers, an RV dump station, a playground, lake side picnic tables in the day use areas and a boat ramp.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “Campground sites are open seasonally from April 1 to September 30, while equestrian sites remain open year-round.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/232709"
+      }
+    }
+  },
+  {
+    "id": "usace-whitney-plowman-creek",
+    "property_name": "Plowman Creek Park — Whitney Lake",
+    "name": "Plowman Creek Park — Whitney Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Whitney Lake area",
+    "address": {
+      "street": null,
+      "city": "Whitney Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Inbound gates open at 6 a.m. and close at 10 p.m.” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/232676"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232676",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232676",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232676",
+        "snapshot": "research/recgov-232676.json",
+        "sha256": "07befc1b564ea5a66cd3ecc8c739f392c1e4fea061547b529bdf590ecef95e2b",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232676) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “The park also has 2 restrooms with showers and a trailer dump station.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “This year-round campground offers 44 campsites in Plowman Creek.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/232676"
+      }
+    }
+  },
+  {
+    "id": "usace-whitney-kimball-bend",
+    "property_name": "Kimball Bend Park — Whitney Lake",
+    "name": "Kimball Bend Park — Whitney Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Whitney Lake area",
+    "address": {
+      "street": null,
+      "city": "Whitney Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Inbound gates open at 6 a.m. and close at 10 p.m.” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/233170"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/233170",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/233170",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/233170",
+        "snapshot": "research/recgov-233170.json",
+        "sha256": "7ac4d16b612caa4ba20340278cf39a15bea74883cb884fab6d424cd6368382d4",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233170) on 2026-11-15.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Amenities include flush toilets, showers, drinking water, a dump station and boat ramp. * Please note that water for this facility is supplied by an onsite Public Water Supply (PWS) and in the event of a power ouatage that lasts more than 24 hours visitors may be asked to evacuate the park since water cannot be provided.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “This year-round campground offers 34 sites with water and electric hookups.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/233170"
+      }
+    }
+  },
+  {
+    "id": "nps-big-bend-chisos-basin",
+    "property_name": "Chisos Basin Campground — Big Bend National Park",
+    "name": "Chisos Basin Campground — Big Bend National Park — RV dump station",
+    "operator": "National Park Service",
+    "source_type": "federal_nps",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Big Bend National Park area",
+    "address": {
+      "street": null,
+      "city": "Big Bend National Park area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-15",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “The dump station is oddly situated and requires EXTRA long hoses, as it's on the right side of the road, opposite from most RV sewer outlets.”",
+        "url": "https://www.recreation.gov/camping/campgrounds/234038"
+      },
+      {
+        "text": "Recreation.gov: “Big Bend charges an entrance fee separate from the camping fee.” (park entrance fee; a dump-station fee is not stated).",
+        "url": "https://www.recreation.gov/camping/campgrounds/234038"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/234038",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/234038",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/234038",
+        "snapshot": "research/recgov-234038.json",
+        "sha256": "5d558234fa4c96865f68af1acef8f2784a6fb9329d5a818531634d82cef85774",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/234038) on 2026-11-15.",
+        "type": "federal_nps",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "“Most campsites are within easy walking distance to drinking water and toilets, and a dump station is provided for RVs and trailers.”"
+      }
+    ],
+    "question_overrides": {
+      "big_rig_access": {
+        "status": "documented",
+        "answer": "Recreation.gov: “The vehicle restriction for the road and campground is 24 feet (7 m) for motor homes and 20 feet (6 m) for travel trailers.” “Trailers over 19 feet and RVs over 24 feet are not recommended, and will not be accommodated.”",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/234038"
+      }
+    }
+  }
+]

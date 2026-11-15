@@ -46,8 +46,11 @@ def main():
    if any('day use visitors' in t.lower() for t in page.get('dump_fee_blocks',[])):
     s['questions']['non_guest_access']=answer('Day-use visitors may use the dump station for its published fee plus daily entrance fee.',url)
  
- for extra in json.loads((ROOT/'research/additional-stations.json').read_text()):
+ extras=json.loads((ROOT/'research/additional-stations.json').read_text())+json.loads((ROOT/'research/additional-stations-2026-11-11.json').read_text())+json.loads((ROOT/'research/additional-stations-2026-11-12.json').read_text())+json.loads((ROOT/'research/additional-stations-2026-11-13.json').read_text())+json.loads((ROOT/'research/additional-stations-2026-11-14.json').read_text())+json.loads((ROOT/'research/additional-stations-2026-11-15.json').read_text())
+ for extra in extras:
+  overrides=extra.pop('question_overrides',{})
   extra['questions']={k:answer() for k in QUESTIONS}
+  extra['questions'].update(overrides)  # documented answers only, each with its official source_url
   stations.append(extra)
  data={'title':'RV Dump Stations USA','last_checked':CHECKED,'questions':QUESTIONS,'stations':stations}
  (ROOT/'data/stations.json').write_text(json.dumps(data,indent=2,ensure_ascii=False)+'\n')

@@ -1,0 +1,344 @@
+[
+  {
+    "id": "usfs-ratcliff-lake-recreation-area",
+    "property_name": "Ratcliff Lake Recreation Area — Davy Crockett National Forest",
+    "name": "Ratcliff Lake Recreation Area — Davy Crockett National Forest — RV dump station",
+    "operator": "USDA Forest Service",
+    "source_type": "federal_usfs",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Kennard",
+    "address": {
+      "street": "18551 State Highway 7 East",
+      "city": "Kennard",
+      "region": "TX",
+      "postal_code": "75487",
+      "country": "US",
+      "precision": "Operator-listed facility address on Recreation.gov; verify the dump-station location inside the recreation area."
+    },
+    "last_checked": "2026-11-13",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “The Day-use fee at Ratcliff is $5.00 per vehicle and is required for all day-use activities including the Group Shelters and Amphitheater.” (day-use fee; a dump-station fee is not stated).",
+        "url": "https://www.recreation.gov/camping/campgrounds/234362"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/234362",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/234362",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/234362",
+        "snapshot": "research/recgov-234362.json",
+        "sha256": "96b976ed278664416b64ff6d03a6b41a8e62a2739984074b4653e8c4cc09b245",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/234362) on 2026-11-13.",
+        "type": "federal_usfs",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”."
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “Camping is available year-round.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/234362"
+      }
+    }
+  },
+  {
+    "id": "usfs-double-lake-recreation-area",
+    "property_name": "Double Lake Recreation Area — Sam Houston National Forest",
+    "name": "Double Lake Recreation Area — Sam Houston National Forest — RV dump station",
+    "operator": "USDA Forest Service",
+    "source_type": "federal_usfs",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Coldspring",
+    "address": {
+      "street": "301 FM 2025",
+      "city": "Coldspring",
+      "region": "TX",
+      "postal_code": "77331",
+      "country": "US",
+      "precision": "Operator-listed facility address on Recreation.gov; verify the dump-station location inside the recreation area."
+    },
+    "last_checked": "2026-11-13",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “No access from 10 p.m.-6 a.m. for newly arriving campers” (camper arrival rule, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/232430"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/232430",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/232430",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/232430",
+        "snapshot": "research/recgov-232430.json",
+        "sha256": "e1f0905d1cb3dc1f84fc9a88a8df35d71a62e765124c4d1e2b795e0b1f1486ba",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232430) on 2026-11-13.",
+        "type": "federal_usfs",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "“Day use fee of $7 per vehicle per day; annual pass $30 per vehicle; walk-in or bicycle $1 per person per day; dump station use $5 per use”"
+      }
+    ],
+    "question_overrides": {
+      "fee": {
+        "status": "documented",
+        "answer": "$5 per use for the dump station (Recreation.gov notice: “Day use fee of $7 per vehicle per day; annual pass $30 per vehicle; walk-in or bicycle $1 per person per day; dump station use $5 per use”).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/232430"
+      }
+    }
+  },
+  {
+    "id": "usace-patmayse-pat-mayse-west",
+    "property_name": "Pat Mayse West Campground — Pat Mayse Lake",
+    "name": "Pat Mayse West Campground — Pat Mayse Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Pat Mayse Lake area",
+    "address": {
+      "street": null,
+      "city": "Pat Mayse Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-13",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Entrance gate opens at 6 a.m. and closes at 10 p.m.; vehicles may leave at any time but cannot enter until the following morning” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/233579"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/233579",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/233579",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/233579",
+        "snapshot": "research/recgov-233579.json",
+        "sha256": "b5bff32a4ec9345f483406dbd69264776297d3de528cad720360d4eca8432948",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233579) on 2026-11-13.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Amenities include flush and pit toilets, showers, drinking water, a dump station and boat ramp.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “This year-round campground offers 88 sites, 83 of which have electric hookups.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/233579"
+      }
+    }
+  },
+  {
+    "id": "usace-patmayse-sanders-cove",
+    "property_name": "Sanders Cove Campground — Pat Mayse Lake",
+    "name": "Sanders Cove Campground — Pat Mayse Lake — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Pat Mayse Lake area",
+    "address": {
+      "street": null,
+      "city": "Pat Mayse Lake area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-13",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Entrance gate opens at 6 a.m. and closes at 10 p.m.; vehicles may leave at any time but cannot enter until the following morning” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/233617"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/233617",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/233617",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/233617",
+        "snapshot": "research/recgov-233617.json",
+        "sha256": "d2b419fec96f023863678c733ea3b146ccf4fa3b07e10731cc26d1f5ecb6ae8e",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233617) on 2026-11-13.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Amenities include flush and pit toilets, showers, drinking water, a dump station and boat ramp.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “This year-round campground offers 85 sites with electric hookups.” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/233617"
+      }
+    }
+  },
+  {
+    "id": "usace-texoma-juniper-point",
+    "property_name": "Juniper Point Campground — Lake Texoma",
+    "name": "Juniper Point Campground — Lake Texoma — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lake Texoma area",
+    "address": {
+      "street": null,
+      "city": "Lake Texoma area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-13",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Entrance gates are open from 6 a.m.-10 p.m.” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/233527"
+      },
+      {
+        "text": "Recreation.gov: “Juniper East will be closed during the winter months from December 1 - February 28” Starting Dec 1, 2026 parts of the park close for the off season; check which loop’s dump station is open.",
+        "url": "https://www.recreation.gov/camping/campgrounds/233527"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/233527",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/233527",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/233527",
+        "snapshot": "research/recgov-233527.json",
+        "sha256": "fd84f0a1ad3aac0e5ef1c069f07c883b62dd5ecb9a8cb4e6c6f2887ef9791fed",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233527) on 2026-11-13.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “Two dump stations, two boat ramps and two docks are located on-site.”"
+      }
+    ],
+    "question_overrides": {
+      "seasonal": {
+        "status": "documented",
+        "answer": "Recreation.gov: “Park will be fully open from March 1 - November 30.” “Juniper East will be closed during the winter months from December 1 - February 28” (campground season; a separate dump-station season is not stated).",
+        "source_url": "https://www.recreation.gov/camping/campgrounds/233527"
+      }
+    }
+  },
+  {
+    "id": "usace-texoma-preston-bend",
+    "property_name": "Preston Bend Campground — Lake Texoma",
+    "name": "Preston Bend Campground — Lake Texoma — RV dump station",
+    "operator": "U.S. Army Corps of Engineers",
+    "source_type": "federal_usace",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Pottsboro",
+    "address": {
+      "street": "129 Preston Bend Park Road",
+      "city": "Pottsboro",
+      "region": "TX",
+      "postal_code": "75076",
+      "country": "US",
+      "precision": "Operator-listed campground address on Recreation.gov; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-13",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Entrance gates are open from 6 a.m.-10 p.m.” (gate hours, not confirmed dump-station hours).",
+        "url": "https://www.recreation.gov/camping/campgrounds/233595"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/233595",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/233595",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/233595",
+        "snapshot": "research/recgov-233595.json",
+        "sha256": "17861837137616725d649a994302eb625ef0795f6d993c0e8852ba63d5ec41fe",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/233595) on 2026-11-13.",
+        "type": "federal_usace",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “A dump station, boat ramp and dock are located on-site.”"
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "nps-big-bend-rio-grande-village",
+    "property_name": "Rio Grande Village Campground — Big Bend National Park",
+    "name": "Rio Grande Village Campground — Big Bend National Park — RV dump station",
+    "operator": "National Park Service",
+    "source_type": "federal_nps",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Big Bend National Park area",
+    "address": {
+      "street": null,
+      "city": "Big Bend National Park area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-13",
+    "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "Recreation.gov: “Big Bend charges an entrance fee separate from the camping fee.” (park entrance fee; a dump-station fee is not stated).",
+        "url": "https://www.recreation.gov/camping/campgrounds/234035"
+      }
+    ],
+    "source_url": "https://www.recreation.gov/camping/campgrounds/234035",
+    "operator_url": "https://www.recreation.gov/camping/campgrounds/234035",
+    "sources": [
+      {
+        "url": "https://www.recreation.gov/camping/campgrounds/234035",
+        "snapshot": "research/recgov-234035.json",
+        "sha256": "53694440b48c02118ecce02301d3ae0ce3164ba87934a34283e07439929b80c4",
+        "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/234035) on 2026-11-13.",
+        "type": "federal_nps",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Recreation.gov amenities list: “Dump Station”. “All campsites are within easy walking distance to water spigots, flush toilets, and utility sinks, and for those camping in motor homes and travel trailers, a fill/dump station is provided at the campground's entrance.” “There is a dump/fill station at the campground entrance.”"
+      }
+    ],
+    "question_overrides": {}
+  }
+]
