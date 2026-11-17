@@ -12304,6 +12304,316 @@
           "source_url": null
         }
       }
+    },
+    {
+      "id": "usace-somerville-yegua-creek",
+      "property_name": "Yegua Creek Park — Somerville Lake",
+      "name": "Yegua Creek Park — Somerville Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Somerville Lake area",
+      "address": {
+        "street": null,
+        "city": "Somerville Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-17",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232752",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232752",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232752",
+          "snapshot": "research/recgov-232752.json",
+          "sha256": "edba20bf084cc7aa0c4314839821d80da4aa4ed166ee6b553bff7f24dfac0910",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232752) on 2026-11-17.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "“Two boat ramps, an interpretive trail, and dump station are located on-site.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-proctor-sowell-creek",
+      "property_name": "Sowell Creek Park — Proctor Lake",
+      "name": "Sowell Creek Park — Proctor Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Proctor Lake area",
+      "address": {
+        "street": null,
+        "city": "Proctor Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-17",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232708",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232708",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232708",
+          "snapshot": "research/recgov-232708.json",
+          "sha256": "60048995fb1976edc58a663c5532e36ad23d01c1b287ab2577d1d565760b1d41",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232708) on 2026-11-17.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "“Amenities include flush and pit toilets, showers, drinking water and a dump station thus creating a comfortable camping environment for visitors.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-whitney-cedron-creek",
+      "property_name": "Cedron Creek Park — Whitney Lake",
+      "name": "Cedron Creek Park — Whitney Lake — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Whitney Lake area",
+      "address": {
+        "street": null,
+        "city": "Whitney Lake area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-17",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Inbound gates open at 6 a.m. and close at 10 p.m.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232547"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232547",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232547",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232547",
+          "snapshot": "research/recgov-232547.json",
+          "sha256": "e75f77d13eb78b4a1fdf04eba035fb7103836fff01a7cdaa4debe5014996dddd",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232547) on 2026-11-17.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "“The park also has 3 restrooms, showers, horseshoe pits, a trailer dump station, boat ramp and a playground.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "usace-lakeopines-johnson-creek",
+      "property_name": "Johnson Creek Camp — Lake O' the Pines",
+      "name": "Johnson Creek Camp — Lake O' the Pines — RV dump station",
+      "operator": "U.S. Army Corps of Engineers",
+      "source_type": "federal_usace",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Lake O' the Pines area",
+      "address": {
+        "street": null,
+        "city": "Lake O' the Pines area",
+        "region": "TX",
+        "postal_code": null,
+        "country": "US",
+        "precision": "Street address not confirmed (Recreation.gov lists only a mailing/office address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+      },
+      "last_checked": "2026-11-17",
+      "verification_scope": "The federal reservation system (Recreation.gov) lists the dump-station amenity for this campground. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [
+        {
+          "text": "Recreation.gov: “Gate House Hours: 10am-6pm Monday through Saturday, 12pm-6pm Sunday.” (gate hours, not confirmed dump-station hours).",
+          "url": "https://www.recreation.gov/camping/campgrounds/232614"
+        }
+      ],
+      "source_url": "https://www.recreation.gov/camping/campgrounds/232614",
+      "operator_url": "https://www.recreation.gov/camping/campgrounds/232614",
+      "sources": [
+        {
+          "url": "https://www.recreation.gov/camping/campgrounds/232614",
+          "snapshot": "research/recgov-232614.json",
+          "sha256": "6a8faab2aab697ea281c83266b2a5120297915aff670fec7e8908b244b80f414",
+          "capture_method": "Direct HTTPS request to the public Recreation.gov campground record (api/camps/campgrounds/232614) on 2026-11-17.",
+          "type": "federal_usace",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "“A boat ramp, playground, swimming beach, and sewer dump station are also provided.”"
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
     }
   ]
 }
