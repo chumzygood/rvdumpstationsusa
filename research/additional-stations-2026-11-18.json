@@ -1,0 +1,197 @@
+[
+  {
+    "id": "nps-amistad-diablo-east",
+    "property_name": "Diablo East area — Amistad National Recreation Area",
+    "name": "Diablo East area — Amistad National Recreation Area — RV dump station",
+    "operator": "National Park Service",
+    "source_type": "federal_nps",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Amistad NRA area",
+    "address": {
+      "street": null,
+      "city": "Amistad NRA area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (the official page names the location but gives no street address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-18",
+    "verification_scope": "The official National Park Service camping page states the dump station. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.nps.gov/amis/planyourvisit/camping.htm",
+    "operator_url": "https://www.nps.gov/amis/planyourvisit/camping.htm",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/amis/planyourvisit/camping.htm",
+        "snapshot": "research/nps-amis-camping-2026-11-18.txt",
+        "sha256": "d93adb5447b770ec914bf188232d87cb4420869809ccdcc53c411a520e735ea5",
+        "capture_method": "Direct HTTPS request to the public nps.gov camping page on 2026-11-18; visible text frozen.",
+        "type": "federal_nps",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "“An RV dump station with potable water is available only to those with receipts showing they are camping within Amistad National Recreation Area campgrounds.” “It is located along the road to the Diablo East boat ramp.”"
+      }
+    ],
+    "question_overrides": {
+      "potable_water": {
+        "status": "documented",
+        "answer": "NPS: “An RV dump station with potable water is available…”",
+        "source_url": "https://www.nps.gov/amis/planyourvisit/camping.htm"
+      },
+      "non_guest_access": {
+        "status": "documented",
+        "answer": "No. NPS: available “only to those with receipts showing they are camping within Amistad National Recreation Area campgrounds.”",
+        "source_url": "https://www.nps.gov/amis/planyourvisit/camping.htm"
+      }
+    }
+  },
+  {
+    "id": "nps-lake-meredith-fritch-fortress",
+    "property_name": "Fritch Fortress Campground — Lake Meredith National Recreation Area",
+    "name": "Fritch Fortress Campground — Lake Meredith National Recreation Area — RV dump station",
+    "operator": "National Park Service",
+    "source_type": "federal_nps",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lake Meredith area",
+    "address": {
+      "street": null,
+      "city": "Lake Meredith area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (the official page names the location but gives no street address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-18",
+    "verification_scope": "The official National Park Service camping page states the dump station. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.nps.gov/lamr/planyourvisit/camping.htm",
+    "operator_url": "https://www.nps.gov/lamr/planyourvisit/camping.htm",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/lamr/planyourvisit/camping.htm",
+        "snapshot": "research/nps-lamr-camping-2026-11-18.txt",
+        "sha256": "d7dbef88c527a170ab888e94fa961d1be970a0e212b2860ba78b4907693509e4",
+        "capture_method": "Direct HTTPS request to the public nps.gov camping page on 2026-11-18; visible text frozen.",
+        "type": "federal_nps",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "“Dump stations with non-potable water are located near Fritch Fortress and Sanford-Yake campgrounds.”"
+      }
+    ],
+    "question_overrides": {
+      "potable_water": {
+        "status": "documented",
+        "answer": "No drinking water at the dump station. NPS: “Dump stations with non-potable water are located near Fritch Fortress and Sanford-Yake campgrounds.”",
+        "source_url": "https://www.nps.gov/lamr/planyourvisit/camping.htm"
+      }
+    }
+  },
+  {
+    "id": "nps-lake-meredith-sanford-yake",
+    "property_name": "Sanford-Yake Campground — Lake Meredith National Recreation Area",
+    "name": "Sanford-Yake Campground — Lake Meredith National Recreation Area — RV dump station",
+    "operator": "National Park Service",
+    "source_type": "federal_nps",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lake Meredith area",
+    "address": {
+      "street": null,
+      "city": "Lake Meredith area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (the official page names the location but gives no street address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-18",
+    "verification_scope": "The official National Park Service camping page states the dump station. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.nps.gov/lamr/planyourvisit/camping.htm",
+    "operator_url": "https://www.nps.gov/lamr/planyourvisit/camping.htm",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/lamr/planyourvisit/camping.htm",
+        "snapshot": "research/nps-lamr-camping-2026-11-18.txt",
+        "sha256": "d7dbef88c527a170ab888e94fa961d1be970a0e212b2860ba78b4907693509e4",
+        "capture_method": "Direct HTTPS request to the public nps.gov camping page on 2026-11-18; visible text frozen.",
+        "type": "federal_nps",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "“Dump stations with non-potable water are located near Fritch Fortress and Sanford-Yake campgrounds.”"
+      }
+    ],
+    "question_overrides": {
+      "potable_water": {
+        "status": "documented",
+        "answer": "No drinking water at the dump station. NPS: “Dump stations with non-potable water are located near Fritch Fortress and Sanford-Yake campgrounds.”",
+        "source_url": "https://www.nps.gov/lamr/planyourvisit/camping.htm"
+      }
+    }
+  },
+  {
+    "id": "nps-padre-island-malaquite",
+    "property_name": "Malaquite Campground — Padre Island National Seashore",
+    "name": "Malaquite Campground — Padre Island National Seashore — RV dump station",
+    "operator": "National Park Service",
+    "source_type": "federal_nps",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Padre Island National Seashore area",
+    "address": {
+      "street": null,
+      "city": "Padre Island National Seashore area",
+      "region": "TX",
+      "postal_code": null,
+      "country": "US",
+      "precision": "Street address not confirmed (the official page names the location but gives no street address). This is a named-area listing, not a precise-entrance claim; follow the official operator directions."
+    },
+    "last_checked": "2026-11-18",
+    "verification_scope": "The official National Park Service camping page states the dump station. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [
+      {
+        "text": "NPS: “Park entrance fees are required.” (park entrance fee; a separate dump-station fee is not stated).",
+        "url": "https://www.nps.gov/pais/planyourvisit/camping.htm"
+      }
+    ],
+    "source_url": "https://www.nps.gov/pais/planyourvisit/camping.htm",
+    "operator_url": "https://www.nps.gov/pais/planyourvisit/camping.htm",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/pais/planyourvisit/camping.htm",
+        "snapshot": "research/nps-pais-camping-2026-11-18.txt",
+        "sha256": "537388a08963e96a594682096f9e619ebbc3237e294f4ee4d0a19c7b4c651120",
+        "capture_method": "Direct HTTPS request to the public nps.gov camping page on 2026-11-18; visible text frozen.",
+        "type": "federal_nps",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "“An RV dump station and freshwater filling station is located next to the entrance of Malaquite Campground.” “It is available for all park visitors to use.”"
+      }
+    ],
+    "question_overrides": {
+      "potable_water": {
+        "status": "documented",
+        "answer": "NPS: “An RV dump station and freshwater filling station is located next to the entrance of Malaquite Campground.”",
+        "source_url": "https://www.nps.gov/pais/planyourvisit/camping.htm"
+      },
+      "non_guest_access": {
+        "status": "documented",
+        "answer": "Yes. NPS: “It is available for all park visitors to use.” Park entrance fees apply.",
+        "source_url": "https://www.nps.gov/pais/planyourvisit/camping.htm"
+      }
+    }
+  }
+]
