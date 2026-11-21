@@ -1,0 +1,314 @@
+[
+  {
+    "id": "loves-721",
+    "property_name": "Love’s Travel Stop #721",
+    "name": "Love’s Travel Stop #721 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Alma",
+    "address": {
+      "street": "6550 S Interstate 45 Service Rd",
+      "city": "Alma",
+      "region": "TX",
+      "postal_code": "75119",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-21",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/alma/loves-travel-stop-alma-721",
+    "operator_url": "https://www.loves.com/locations/tx/alma/loves-travel-stop-alma-721",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/alma/loves-travel-stop-alma-721",
+        "snapshot": "research/loves-721-2026-11-21.txt",
+        "sha256": "8bb3f42ba82c7ce9e455f2df1b72a35993eafca14e24b35953ad70896ee90fcb",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-21; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-250",
+    "property_name": "Love’s Travel Stop #250",
+    "name": "Love’s Travel Stop #250 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Amarillo",
+    "address": {
+      "street": "14701 I-40 W.",
+      "city": "Amarillo",
+      "region": "TX",
+      "postal_code": "79124",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-21",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/amarillo/loves-travel-stop-amarillo-250",
+    "operator_url": "https://www.loves.com/locations/tx/amarillo/loves-travel-stop-amarillo-250",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/amarillo/loves-travel-stop-amarillo-250",
+        "snapshot": "research/loves-250-2026-11-21.txt",
+        "sha256": "7641d3011382b42b957965528d35535369f90c5eb9d771e27aaed7e6fe2deafd",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-21; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-539",
+    "property_name": "Love’s Travel Stop #539",
+    "name": "Love’s Travel Stop #539 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Andrews",
+    "address": {
+      "street": "1201 S. Main St.",
+      "city": "Andrews",
+      "region": "TX",
+      "postal_code": "79714",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-21",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/andrews/loves-travel-stop-andrews-539",
+    "operator_url": "https://www.loves.com/locations/tx/andrews/loves-travel-stop-andrews-539",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/andrews/loves-travel-stop-andrews-539",
+        "snapshot": "research/loves-539-2026-11-21.txt",
+        "sha256": "ef11ca0f3c4b62ddcb308f745462a3c40cdc3b800d62d4ba6b838b5f4456ef24",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-21; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-299",
+    "property_name": "Love’s Travel Stop #299",
+    "name": "Love’s Travel Stop #299 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Anna",
+    "address": {
+      "street": "1701 US Highway 75",
+      "city": "Anna",
+      "region": "TX",
+      "postal_code": "75409",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-21",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/anna/loves-travel-stop-anna-299",
+    "operator_url": "https://www.loves.com/locations/tx/anna/loves-travel-stop-anna-299",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/anna/loves-travel-stop-anna-299",
+        "snapshot": "research/loves-299-2026-11-21.txt",
+        "sha256": "4025a1aba33b80ce46f0674a520e0e70038ed12120126a6a07c9108a086ce56c",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-21; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-696",
+    "property_name": "Love’s Travel Stop #696",
+    "name": "Love’s Travel Stop #696 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Beaumont",
+    "address": {
+      "street": "7495 Smith Rd",
+      "city": "Beaumont",
+      "region": "TX",
+      "postal_code": "77713",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-21",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/beaumont/loves-travel-stop-beaumont-696",
+    "operator_url": "https://www.loves.com/locations/tx/beaumont/loves-travel-stop-beaumont-696",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/beaumont/loves-travel-stop-beaumont-696",
+        "snapshot": "research/loves-696-2026-11-21.txt",
+        "sha256": "ffedafe4a437eb4d9cd0145f688053b73e42b7c9f7731bc8d010273d43975808",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-21; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-976",
+    "property_name": "Love’s Travel Stop #976",
+    "name": "Love’s Travel Stop #976 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Big Spring",
+    "address": {
+      "street": "1801 W I-20",
+      "city": "Big Spring",
+      "region": "TX",
+      "postal_code": "79720",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-21",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/big-spring/loves-travel-stop-big-spring-976",
+    "operator_url": "https://www.loves.com/locations/tx/big-spring/loves-travel-stop-big-spring-976",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/big-spring/loves-travel-stop-big-spring-976",
+        "snapshot": "research/loves-976-2026-11-21.txt",
+        "sha256": "66c4d6165d38567d88989a0020c97cc46cd9e06561b5db599aab9a505c670cc0",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-21; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-713",
+    "property_name": "Love’s Travel Stop #713",
+    "name": "Love’s Travel Stop #713 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Bridgeport",
+    "address": {
+      "street": "2300 US Highway 380",
+      "city": "Bridgeport",
+      "region": "TX",
+      "postal_code": "76426",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-21",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/bridgeport/loves-travel-stop-bridgeport-713",
+    "operator_url": "https://www.loves.com/locations/tx/bridgeport/loves-travel-stop-bridgeport-713",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/bridgeport/loves-travel-stop-bridgeport-713",
+        "snapshot": "research/loves-713-2026-11-21.txt",
+        "sha256": "cf444c8e2aaf9c4e6d9b1129897fbd0ef34ae49bf961a76c708f204462519b9b",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-21; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-767",
+    "property_name": "Love’s Travel Stop #767",
+    "name": "Love’s Travel Stop #767 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Brownsville",
+    "address": {
+      "street": "3400 Nafta Parkway",
+      "city": "Brownsville",
+      "region": "TX",
+      "postal_code": "78526",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-21",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/brownsville/loves-travel-stop-brownsville-767",
+    "operator_url": "https://www.loves.com/locations/tx/brownsville/loves-travel-stop-brownsville-767",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/brownsville/loves-travel-stop-brownsville-767",
+        "snapshot": "research/loves-767-2026-11-21.txt",
+        "sha256": "8618a0d21f2487ab4813cce8105233cc61d49b32e44871e7b2d742cbb0feef4f",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-21; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  }
+]
