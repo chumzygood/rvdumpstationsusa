@@ -13969,6 +13969,531 @@
           "source_url": null
         }
       }
+    },
+    {
+      "id": "loves-615",
+      "property_name": "Love’s Travel Stop #615",
+      "name": "Love’s Travel Stop #615 — RV dump station",
+      "operator": "Love’s Travel Stops",
+      "source_type": "travel_center_operator",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Carthage",
+      "address": {
+        "street": "975 E Sabine St",
+        "city": "Carthage",
+        "region": "TX",
+        "postal_code": "75633",
+        "country": "US",
+        "precision": "Operator property address; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-22",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.loves.com/locations/tx/carthage/loves-travel-stop-carthage-615",
+      "operator_url": "https://www.loves.com/locations/tx/carthage/loves-travel-stop-carthage-615",
+      "sources": [
+        {
+          "url": "https://www.loves.com/locations/tx/carthage/loves-travel-stop-carthage-615",
+          "snapshot": "research/loves-615-2026-11-22.txt",
+          "sha256": "ad2a0d480954c045eb95249a4c0dbf700c148242af49c0e63247cdfbf81c18c3",
+          "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-22; visible text frozen.",
+          "type": "travel_center_operator",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "loves-862",
+      "property_name": "Love’s Travel Stop #862",
+      "name": "Love’s Travel Stop #862 — RV dump station",
+      "operator": "Love’s Travel Stops",
+      "source_type": "travel_center_operator",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Cotulla",
+      "address": {
+        "street": "1963 S IH 35",
+        "city": "Cotulla",
+        "region": "TX",
+        "postal_code": "78014",
+        "country": "US",
+        "precision": "Operator property address; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-22",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.loves.com/locations/tx/cotulla/loves-travel-stop-cotulla-862",
+      "operator_url": "https://www.loves.com/locations/tx/cotulla/loves-travel-stop-cotulla-862",
+      "sources": [
+        {
+          "url": "https://www.loves.com/locations/tx/cotulla/loves-travel-stop-cotulla-862",
+          "snapshot": "research/loves-862-2026-11-22.txt",
+          "sha256": "4cc8ddbd4436e93cf9ea9d6332cc605f5d5a579cbab6342dfe3fc6808cd436d7",
+          "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-22; visible text frozen.",
+          "type": "travel_center_operator",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "loves-836",
+      "property_name": "Love’s Travel Stop #836",
+      "name": "Love’s Travel Stop #836 — RV dump station",
+      "operator": "Love’s Travel Stops",
+      "source_type": "travel_center_operator",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Dalhart",
+      "address": {
+        "street": "12182 Hwy 87 N",
+        "city": "Dalhart",
+        "region": "TX",
+        "postal_code": "79022",
+        "country": "US",
+        "precision": "Operator property address; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-22",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.loves.com/locations/tx/dalhart/loves-travel-stop-dalhart-836",
+      "operator_url": "https://www.loves.com/locations/tx/dalhart/loves-travel-stop-dalhart-836",
+      "sources": [
+        {
+          "url": "https://www.loves.com/locations/tx/dalhart/loves-travel-stop-dalhart-836",
+          "snapshot": "research/loves-836-2026-11-22.txt",
+          "sha256": "99aa4605de4a04bcc0fc484c07041f912d9e3f22241e0af8bd3aa71daa0d77ac",
+          "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-22; visible text frozen.",
+          "type": "travel_center_operator",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "loves-294",
+      "property_name": "Love’s Travel Stop #294",
+      "name": "Love’s Travel Stop #294 — RV dump station",
+      "operator": "Love’s Travel Stops",
+      "source_type": "travel_center_operator",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Dallas",
+      "address": {
+        "street": "8800 S. Polk Street",
+        "city": "Dallas",
+        "region": "TX",
+        "postal_code": "75232",
+        "country": "US",
+        "precision": "Operator property address; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-22",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.loves.com/locations/tx/dallas/loves-travel-stop-dallas-294",
+      "operator_url": "https://www.loves.com/locations/tx/dallas/loves-travel-stop-dallas-294",
+      "sources": [
+        {
+          "url": "https://www.loves.com/locations/tx/dallas/loves-travel-stop-dallas-294",
+          "snapshot": "research/loves-294-2026-11-22.txt",
+          "sha256": "fc97cdfc1e9789ad396bfd30098850210612587bf24c4c3c3a7d253df6996c0f",
+          "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-22; visible text frozen.",
+          "type": "travel_center_operator",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "loves-673",
+      "property_name": "Love’s Travel Stop #673",
+      "name": "Love’s Travel Stop #673 — RV dump station",
+      "operator": "Love’s Travel Stops",
+      "source_type": "travel_center_operator",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Domino",
+      "address": {
+        "street": "22406 US Highway 59 N",
+        "city": "Domino",
+        "region": "TX",
+        "postal_code": "75572",
+        "country": "US",
+        "precision": "Operator property address; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-22",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.loves.com/locations/tx/domino/loves-travel-stop-domino-673",
+      "operator_url": "https://www.loves.com/locations/tx/domino/loves-travel-stop-domino-673",
+      "sources": [
+        {
+          "url": "https://www.loves.com/locations/tx/domino/loves-travel-stop-domino-673",
+          "snapshot": "research/loves-673-2026-11-22.txt",
+          "sha256": "463b393a030ee6df712dfd0124a029c106e14af8e55a8efa22f1c32e36f47ea4",
+          "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-22; visible text frozen.",
+          "type": "travel_center_operator",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "loves-739",
+      "property_name": "Love’s Travel Stop #739",
+      "name": "Love’s Travel Stop #739 — RV dump station",
+      "operator": "Love’s Travel Stops",
+      "source_type": "travel_center_operator",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Donna",
+      "address": {
+        "street": "545 W I-2",
+        "city": "Donna",
+        "region": "TX",
+        "postal_code": "78537",
+        "country": "US",
+        "precision": "Operator property address; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-22",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.loves.com/locations/tx/donna/loves-travel-stop-donna-739",
+      "operator_url": "https://www.loves.com/locations/tx/donna/loves-travel-stop-donna-739",
+      "sources": [
+        {
+          "url": "https://www.loves.com/locations/tx/donna/loves-travel-stop-donna-739",
+          "snapshot": "research/loves-739-2026-11-22.txt",
+          "sha256": "c161484b8b3463fc230e5e8d053e25a19a942532207b4ee8307741d51f758db6",
+          "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-22; visible text frozen.",
+          "type": "travel_center_operator",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
+    },
+    {
+      "id": "loves-297",
+      "property_name": "Love’s Travel Stop #297",
+      "name": "Love’s Travel Stop #297 — RV dump station",
+      "operator": "Love’s Travel Stops",
+      "source_type": "travel_center_operator",
+      "state": "Texas",
+      "state_code": "TX",
+      "city": "Edna",
+      "address": {
+        "street": "1509 E. Rose St.",
+        "city": "Edna",
+        "region": "TX",
+        "postal_code": "77957",
+        "country": "US",
+        "precision": "Operator property address; verify the dump-station entrance."
+      },
+      "last_checked": "2026-11-22",
+      "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+      "park_status": "Operating status not confirmed; check operator",
+      "alerts": [],
+      "source_url": "https://www.loves.com/locations/tx/edna/loves-travel-stop-edna-297",
+      "operator_url": "https://www.loves.com/locations/tx/edna/loves-travel-stop-edna-297",
+      "sources": [
+        {
+          "url": "https://www.loves.com/locations/tx/edna/loves-travel-stop-edna-297",
+          "snapshot": "research/loves-297-2026-11-22.txt",
+          "sha256": "d5c0ef1cf19b69f83c3c9fa7158dfb8de46f8734d67225d93be6f373d136f680",
+          "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-22; visible text frozen.",
+          "type": "travel_center_operator",
+          "supports": [
+            "dump_station",
+            "location"
+          ],
+          "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+        }
+      ],
+      "questions": {
+        "fee": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "potable_water": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "non_guest_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "seasonal": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "hours": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "payment": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        },
+        "big_rig_access": {
+          "status": "unknown",
+          "answer": "Not confirmed in the checked official sources. Verify with the operator before traveling.",
+          "source_url": null
+        }
+      }
     }
   ]
 }
