@@ -1,0 +1,314 @@
+[
+  {
+    "id": "loves-288",
+    "property_name": "Love’s Travel Stop #288",
+    "name": "Love’s Travel Stop #288 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Fairfield",
+    "address": {
+      "street": "299 I-45",
+      "city": "Fairfield",
+      "region": "TX",
+      "postal_code": "75840",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-23",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/fairfield/loves-travel-stop-fairfield-288",
+    "operator_url": "https://www.loves.com/locations/tx/fairfield/loves-travel-stop-fairfield-288",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/fairfield/loves-travel-stop-fairfield-288",
+        "snapshot": "research/loves-288-2026-11-23.txt",
+        "sha256": "01edc6925324221b28317c8859ab52963dd9d05d5e7cb7ee9e8aa5f1a01b552e",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-23; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-542",
+    "property_name": "Love’s Travel Stop #542",
+    "name": "Love’s Travel Stop #542 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Fort Stockton",
+    "address": {
+      "street": "2723 East US Highway 290",
+      "city": "Fort Stockton",
+      "region": "TX",
+      "postal_code": "79735",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-23",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/fort-stockton/loves-travel-stop-fort-stockton-542",
+    "operator_url": "https://www.loves.com/locations/tx/fort-stockton/loves-travel-stop-fort-stockton-542",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/fort-stockton/loves-travel-stop-fort-stockton-542",
+        "snapshot": "research/loves-542-2026-11-23.txt",
+        "sha256": "318026b894daa0438612ab0c7faccd9966acf02f905b614f2136741ea55a41db",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-23; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-885",
+    "property_name": "Love’s Travel Stop #885",
+    "name": "Love’s Travel Stop #885 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Harlingen",
+    "address": {
+      "street": "21379 US 77 Expressway",
+      "city": "Harlingen",
+      "region": "TX",
+      "postal_code": "78550",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-23",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/harlingen/loves-travel-stop-harlingen-885",
+    "operator_url": "https://www.loves.com/locations/tx/harlingen/loves-travel-stop-harlingen-885",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/harlingen/loves-travel-stop-harlingen-885",
+        "snapshot": "research/loves-885-2026-11-23.txt",
+        "sha256": "d2d286d0a1b4352d54de0dd7ea703ac7a881d60e872a976ad6102ec554a90d38",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-23; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-375",
+    "property_name": "Love’s Travel Stop #375",
+    "name": "Love’s Travel Stop #375 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Hearne",
+    "address": {
+      "street": "1423 N Market St",
+      "city": "Hearne",
+      "region": "TX",
+      "postal_code": "77859",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-23",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/hearne/loves-travel-stop-hearne-375",
+    "operator_url": "https://www.loves.com/locations/tx/hearne/loves-travel-stop-hearne-375",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/hearne/loves-travel-stop-hearne-375",
+        "snapshot": "research/loves-375-2026-11-23.txt",
+        "sha256": "932c1a0be66d132bb2334f770eda4027078c7630465ab798b8337edcb0aef218",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-23; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-642",
+    "property_name": "Love’s Travel Stop #642",
+    "name": "Love’s Travel Stop #642 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Hereford",
+    "address": {
+      "street": "901 West 1st St",
+      "city": "Hereford",
+      "region": "TX",
+      "postal_code": "79045",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-23",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/hereford/loves-travel-stop-hereford-642",
+    "operator_url": "https://www.loves.com/locations/tx/hereford/loves-travel-stop-hereford-642",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/hereford/loves-travel-stop-hereford-642",
+        "snapshot": "research/loves-642-2026-11-23.txt",
+        "sha256": "13451f13a526b2371f14ce9b74f2330aecae5544bf5b2021f8d744ba5a0088d6",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-23; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-315",
+    "property_name": "Love’s Travel Stop #315",
+    "name": "Love’s Travel Stop #315 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Houston",
+    "address": {
+      "street": "3940 N McCarty St",
+      "city": "Houston",
+      "region": "TX",
+      "postal_code": "77013",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-23",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/houston/loves-travel-stop-houston-315",
+    "operator_url": "https://www.loves.com/locations/tx/houston/loves-travel-stop-houston-315",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/houston/loves-travel-stop-houston-315",
+        "snapshot": "research/loves-315-2026-11-23.txt",
+        "sha256": "a4984aa14ffd6d897bf24ce75871b6e4219fc0688f34baf3eeb350fc817aabd6",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-23; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-617",
+    "property_name": "Love’s Travel Stop #617",
+    "name": "Love’s Travel Stop #617 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Hungerford",
+    "address": {
+      "street": "350 E Walnut Street",
+      "city": "Hungerford",
+      "region": "TX",
+      "postal_code": "77448",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-23",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/hungerford/loves-travel-stop-hungerford-617",
+    "operator_url": "https://www.loves.com/locations/tx/hungerford/loves-travel-stop-hungerford-617",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/hungerford/loves-travel-stop-hungerford-617",
+        "snapshot": "research/loves-617-2026-11-23.txt",
+        "sha256": "caefb1c313286f4cf8fceeed051b2364928e7e7798973e244c4b34d603e4448d",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-23; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-331",
+    "property_name": "Love’s Travel Stop #331",
+    "name": "Love’s Travel Stop #331 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Hutchins",
+    "address": {
+      "street": "2500 S. I-45",
+      "city": "Hutchins",
+      "region": "TX",
+      "postal_code": "75141",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-23",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/hutchins/loves-travel-stop-hutchins-331",
+    "operator_url": "https://www.loves.com/locations/tx/hutchins/loves-travel-stop-hutchins-331",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/hutchins/loves-travel-stop-hutchins-331",
+        "snapshot": "research/loves-331-2026-11-23.txt",
+        "sha256": "d013d44ec3dbd9aeb817e3f993f9def481c017b74ffb98d3ad21090fb673efdf",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-23; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  }
+]
