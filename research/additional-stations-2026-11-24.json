@@ -1,0 +1,314 @@
+[
+  {
+    "id": "loves-628",
+    "property_name": "Love’s Travel Stop #628",
+    "name": "Love’s Travel Stop #628 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Italy",
+    "address": {
+      "street": "1021 Dale Evans Dr",
+      "city": "Italy",
+      "region": "TX",
+      "postal_code": "76651",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-24",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/italy/loves-travel-stop-italy-628",
+    "operator_url": "https://www.loves.com/locations/tx/italy/loves-travel-stop-italy-628",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/italy/loves-travel-stop-italy-628",
+        "snapshot": "research/loves-628-2026-11-24.txt",
+        "sha256": "0158a3551becbe1e4a56a74e7b1b365061ef4438d51566450fa062cca6a54c54",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-24; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-234",
+    "property_name": "Love’s Travel Stop #234",
+    "name": "Love’s Travel Stop #234 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Katy",
+    "address": {
+      "street": "612 Pederson Rd.",
+      "city": "Katy",
+      "region": "TX",
+      "postal_code": "77494",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-24",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/katy/loves-travel-stop-katy-234",
+    "operator_url": "https://www.loves.com/locations/tx/katy/loves-travel-stop-katy-234",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/katy/loves-travel-stop-katy-234",
+        "snapshot": "research/loves-234-2026-11-24.txt",
+        "sha256": "154725033a673e7c3352f22ed92dcece73c88c4cf12355122227b046d95cc5a3",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-24; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-853",
+    "property_name": "Love’s Travel Stop #853",
+    "name": "Love’s Travel Stop #853 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Kermit",
+    "address": {
+      "street": "674 E State Hwy 302",
+      "city": "Kermit",
+      "region": "TX",
+      "postal_code": "79745",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-24",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/kermit/loves-travel-stop-kermit-853",
+    "operator_url": "https://www.loves.com/locations/tx/kermit/loves-travel-stop-kermit-853",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/kermit/loves-travel-stop-kermit-853",
+        "snapshot": "research/loves-853-2026-11-24.txt",
+        "sha256": "f1602c9d14de914b867605c485a75b45b1c1cce3a5bac06d3c189e0445268196",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-24; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-327",
+    "property_name": "Love’s Travel Stop #327",
+    "name": "Love’s Travel Stop #327 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Kingsville",
+    "address": {
+      "street": "1451 N US Highway 77 Byp",
+      "city": "Kingsville",
+      "region": "TX",
+      "postal_code": "78363",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-24",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/kingsville/loves-travel-stop-kingsville-327",
+    "operator_url": "https://www.loves.com/locations/tx/kingsville/loves-travel-stop-kingsville-327",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/kingsville/loves-travel-stop-kingsville-327",
+        "snapshot": "research/loves-327-2026-11-24.txt",
+        "sha256": "1cf9f23dfb0181d4d9be0efd3b6a985233e07c005b3d7162739bc46f825d6b1a",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-24; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-762",
+    "property_name": "Love’s Travel Stop #762",
+    "name": "Love’s Travel Stop #762 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Laredo",
+    "address": {
+      "street": "101 Pinnacle Road",
+      "city": "Laredo",
+      "region": "TX",
+      "postal_code": "78045",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-24",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/laredo/loves-travel-stop-laredo-762",
+    "operator_url": "https://www.loves.com/locations/tx/laredo/loves-travel-stop-laredo-762",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/laredo/loves-travel-stop-laredo-762",
+        "snapshot": "research/loves-762-2026-11-24.txt",
+        "sha256": "064aa5b0a60f64861cb1599d1aa5f0ff0968444d49d2ba2a9402c83e4a85ce1e",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-24; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-589",
+    "property_name": "Love’s Travel Stop #589",
+    "name": "Love’s Travel Stop #589 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lubbock",
+    "address": {
+      "street": "4221 North Interstate 27",
+      "city": "Lubbock",
+      "region": "TX",
+      "postal_code": "79403",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-24",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/lubbock/loves-travel-stop-lubbock-589",
+    "operator_url": "https://www.loves.com/locations/tx/lubbock/loves-travel-stop-lubbock-589",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/lubbock/loves-travel-stop-lubbock-589",
+        "snapshot": "research/loves-589-2026-11-24.txt",
+        "sha256": "dabf565ad82925802737a6a0ea70af3947f416c4e72a9bc69070517cd7875505",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-24; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-290",
+    "property_name": "Love’s Travel Stop #290",
+    "name": "Love’s Travel Stop #290 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lufkin",
+    "address": {
+      "street": "1003 S. Medford Dr.",
+      "city": "Lufkin",
+      "region": "TX",
+      "postal_code": "75901",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-24",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/lufkin/loves-travel-stop-lufkin-290",
+    "operator_url": "https://www.loves.com/locations/tx/lufkin/loves-travel-stop-lufkin-290",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/lufkin/loves-travel-stop-lufkin-290",
+        "snapshot": "research/loves-290-2026-11-24.txt",
+        "sha256": "4ca5578d87817e9c1912e8c0e763bfd1fa30b3c49122d463eec6eadd80fd9c29",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-24; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-709",
+    "property_name": "Love’s Travel Stop #709",
+    "name": "Love’s Travel Stop #709 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Lufkin",
+    "address": {
+      "street": "5614 Hwy 59 N",
+      "city": "Lufkin",
+      "region": "TX",
+      "postal_code": "75901",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-24",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/lufkin/loves-travel-stop-lufkin-709",
+    "operator_url": "https://www.loves.com/locations/tx/lufkin/loves-travel-stop-lufkin-709",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/lufkin/loves-travel-stop-lufkin-709",
+        "snapshot": "research/loves-709-2026-11-24.txt",
+        "sha256": "d4aa305477caf3f4f9685f539925c242f42f2613969bc18f8ed89b2740e77529",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-24; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  }
+]
