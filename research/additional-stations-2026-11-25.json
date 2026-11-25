@@ -1,0 +1,314 @@
+[
+  {
+    "id": "loves-623",
+    "property_name": "Love’s Travel Stop #623",
+    "name": "Love’s Travel Stop #623 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Midland",
+    "address": {
+      "street": "5200 Cholla Rd",
+      "city": "Midland",
+      "region": "TX",
+      "postal_code": "79706",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-25",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/midland/loves-travel-stop-midland-623",
+    "operator_url": "https://www.loves.com/locations/tx/midland/loves-travel-stop-midland-623",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/midland/loves-travel-stop-midland-623",
+        "snapshot": "research/loves-623-2026-11-25.txt",
+        "sha256": "a6e8f92c63e36fbe54759926468753e3e1d3af27d671297028c5323e3f593529",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-25; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-852",
+    "property_name": "Love’s Travel Stop #852",
+    "name": "Love’s Travel Stop #852 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "New Boston",
+    "address": {
+      "street": "2486 US Hwy-82 W",
+      "city": "New Boston",
+      "region": "TX",
+      "postal_code": "75570",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-25",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/new-boston/loves-travel-stop-new-boston-852",
+    "operator_url": "https://www.loves.com/locations/tx/new-boston/loves-travel-stop-new-boston-852",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/new-boston/loves-travel-stop-new-boston-852",
+        "snapshot": "research/loves-852-2026-11-25.txt",
+        "sha256": "82430c7c93335201abf46fbf7f604d477dec91b437f848bf4ce2df11cb3704ee",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-25; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-339",
+    "property_name": "Love’s Travel Stop #339",
+    "name": "Love’s Travel Stop #339 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Odessa",
+    "address": {
+      "street": "1901 W. I-20",
+      "city": "Odessa",
+      "region": "TX",
+      "postal_code": "79766",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-25",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/odessa/loves-travel-stop-odessa-339",
+    "operator_url": "https://www.loves.com/locations/tx/odessa/loves-travel-stop-odessa-339",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/odessa/loves-travel-stop-odessa-339",
+        "snapshot": "research/loves-339-2026-11-25.txt",
+        "sha256": "a05d43590a5df03ee813a0d2f6df649f53791be0b9ebc830d2711250bc0f3433",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-25; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-492",
+    "property_name": "Love’s Travel Stop #492",
+    "name": "Love’s Travel Stop #492 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Pecos",
+    "address": {
+      "street": "5202 South Cedar St.",
+      "city": "Pecos",
+      "region": "TX",
+      "postal_code": "79772",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-25",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/pecos/loves-travel-stop-pecos-492",
+    "operator_url": "https://www.loves.com/locations/tx/pecos/loves-travel-stop-pecos-492",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/pecos/loves-travel-stop-pecos-492",
+        "snapshot": "research/loves-492-2026-11-25.txt",
+        "sha256": "058baa4ceed5a78740f2e7f18f6d1330d150f89331ac9b9e890ad19376edde02",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-25; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-1049",
+    "property_name": "Love’s Travel Stop #1049",
+    "name": "Love’s Travel Stop #1049 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Premont",
+    "address": {
+      "street": "511 NE 8th St",
+      "city": "Premont",
+      "region": "TX",
+      "postal_code": "78375",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-25",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/premont/loves-travel-stop-premont-1049",
+    "operator_url": "https://www.loves.com/locations/tx/premont/loves-travel-stop-premont-1049",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/premont/loves-travel-stop-premont-1049",
+        "snapshot": "research/loves-1049-2026-11-25.txt",
+        "sha256": "91a9bfe5f30eda96f3ad8267d76af766306fec507d985b257bd73e2afb67ac0d",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-25; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-283",
+    "property_name": "Love’s Travel Stop #283",
+    "name": "Love’s Travel Stop #283 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Rockwall",
+    "address": {
+      "street": "1990 E. I-30",
+      "city": "Rockwall",
+      "region": "TX",
+      "postal_code": "75075",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-25",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/rockwall/loves-travel-stop-rockwall-283",
+    "operator_url": "https://www.loves.com/locations/tx/rockwall/loves-travel-stop-rockwall-283",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/rockwall/loves-travel-stop-rockwall-283",
+        "snapshot": "research/loves-283-2026-11-25.txt",
+        "sha256": "87b4a2e391d4d1a6cbbe686c72a42afebf291c7abd1c55ed691093088a12881a",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-25; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-960",
+    "property_name": "Love’s Travel Stop #960",
+    "name": "Love’s Travel Stop #960 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "San Antonio",
+    "address": {
+      "street": "9530 Southton Rd",
+      "city": "San Antonio",
+      "region": "TX",
+      "postal_code": "78223",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-25",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/san-antonio/loves-travel-stop-san-antonio-960",
+    "operator_url": "https://www.loves.com/locations/tx/san-antonio/loves-travel-stop-san-antonio-960",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/san-antonio/loves-travel-stop-san-antonio-960",
+        "snapshot": "research/loves-960-2026-11-25.txt",
+        "sha256": "5299442aa80089825d3640b766fe409e471c609e3f8b8d3e8fe748f97245aef2",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-25; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  },
+  {
+    "id": "loves-700",
+    "property_name": "Love’s Travel Stop #700",
+    "name": "Love’s Travel Stop #700 — RV dump station",
+    "operator": "Love’s Travel Stops",
+    "source_type": "travel_center_operator",
+    "state": "Texas",
+    "state_code": "TX",
+    "city": "Sonora",
+    "address": {
+      "street": "3880 Loop 467",
+      "city": "Sonora",
+      "region": "TX",
+      "postal_code": "76950",
+      "country": "US",
+      "precision": "Operator property address; verify the dump-station entrance."
+    },
+    "last_checked": "2026-11-25",
+    "verification_scope": "Official operator lists the dump-station amenity. Not an on-site inspection or confirmation that it is open today. One record per property, not per lane or physical outlet.",
+    "park_status": "Operating status not confirmed; check operator",
+    "alerts": [],
+    "source_url": "https://www.loves.com/locations/tx/sonora/loves-travel-stop-sonora-700",
+    "operator_url": "https://www.loves.com/locations/tx/sonora/loves-travel-stop-sonora-700",
+    "sources": [
+      {
+        "url": "https://www.loves.com/locations/tx/sonora/loves-travel-stop-sonora-700",
+        "snapshot": "research/loves-700-2026-11-25.txt",
+        "sha256": "abbeb40071c972628898630a35a688fb595bc0c977e1f7f70f6f5d45d458d21b",
+        "capture_method": "Direct HTTPS request to the public operator location page on 2026-11-25; visible text frozen.",
+        "type": "travel_center_operator",
+        "supports": [
+          "dump_station",
+          "location"
+        ],
+        "evidence": "Location-specific amenities list: RV Dump Service. Store hours and general payment types are not assumed to apply to dumping."
+      }
+    ],
+    "question_overrides": {}
+  }
+]
