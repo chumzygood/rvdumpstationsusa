@@ -10,7 +10,7 @@ assert len(S)>=50 and len({s['id'] for s in S})==len(S)
 parks={p['idname']:p for p in json.loads((R/'research/texas-official.json').read_text())}
 hosts={'tpwd.texas.gov','www.swf-wc.usace.army.mil','www.loves.com','www.ta-petro.com','pilotcompany.com','www.recreation.gov','www.nps.gov'}
 for s in S:
- assert s['last_checked'] in ('2026-11-10','2026-11-11','2026-11-12','2026-11-13','2026-11-14','2026-11-15','2026-11-16','2026-11-17','2026-11-18','2026-11-20','2026-11-21','2026-11-22','2026-11-23','2026-11-24','2026-11-25')
+ assert s['last_checked'] in ('2026-11-10','2026-11-11','2026-11-12','2026-11-13','2026-11-14','2026-11-15','2026-11-16','2026-11-17','2026-11-18','2026-11-20','2026-11-21','2026-11-22','2026-11-23','2026-11-24','2026-11-25','2026-11-26')
  assert s['source_type'] in ['state_park_agency','federal_usace','federal_usfs','federal_nps','travel_center_operator']
  if s['source_type']=='state_park_agency':
   assert 'dump_station' in parks[s['id']]['amenities']
