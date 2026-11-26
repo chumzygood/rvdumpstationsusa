@@ -4,7 +4,7 @@ from html.parser import HTMLParser
 from urllib.parse import urlparse,unquote
 from xml.etree import ElementTree as ET
 import json,subprocess,hashlib
-R=Path(__file__).resolve().parents[1];OUT=R/'docs';DOMAIN='https://rvdumpstationsusa.com'
+R=Path(__file__).resolve().parents[1];OUT=R/'docs';BASE_PATH='/rvdumpstationsusa';DOMAIN='https://chumzygood.github.io'+BASE_PATH
 D=json.loads((R/'data/stations.json').read_text());S=D['stations']
 assert len(S)>=50 and len({s['id'] for s in S})==len(S)
 parks={p['idname']:p for p in json.loads((R/'research/texas-official.json').read_text())}
@@ -44,24 +44,28 @@ for f in OUT.rglob('*.html'):
  p=Parser();p.feed(f.read_text());is404=f.name=='404.html'
  assert p.robots==('noindex,follow' if is404 else 'index,follow'),f
  assert p.canonical and p.canonical.startswith(DOMAIN+'/')
+ assert '/rvdumpstationsusa/rvdumpstationsusa/' not in p.canonical
  if not is404:assert p.canonical not in canonicals;canonicals.add(p.canonical)
  assert p.schema,f
  for u in p.links:
   if urlparse(u).scheme or u.startswith('#'):continue
-  q=OUT/unquote(u).lstrip('/')
-  if u.endswith('/'):q=q/'index.html'
+  path=unquote(u)
+  if path.startswith(BASE_PATH+'/'):path=path[len(BASE_PATH):]
+  q=OUT/path.lstrip('/')
+  if path.endswith('/'):q=q/'index.html'
   assert q.exists(),(f,u)
  if 'stations' in f.parts:assert any(x.get('@type')=='Place' and x.get('url')==p.canonical for x in p.schema)
  assert 'https://tossmap.com/' in f.read_text()
 site=ET.parse(OUT/'sitemap.xml');locs={x.text for x in site.findall('.//{*}loc')}
 assert locs==canonicals and len(locs)==len(canonicals)
-assert (OUT/'CNAME').read_text().strip()=='rvdumpstationsusa.com'
+assert not (OUT/'CNAME').exists() or not (OUT/'CNAME').read_text().strip()
 assert 'Disallow: /' not in (OUT/'robots.txt').read_text()
 assert DOMAIN+'/sitemap.xml' in (OUT/'robots.txt').read_text()
 assert not (OUT/'states').exists() and not (OUT/'cities').exists() and not (OUT/'stations').exists()
 assert 'coming soon' in (OUT/'index.html').read_text() and not (OUT/'florida').exists()
+home=Parser();home.feed((OUT/'index.html').read_text());assert home.canonical==DOMAIN+'/'
 before={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in OUT.rglob('*') if p.is_file()}
 subprocess.run(['python3',str(R/'scripts/build.py')],check=True,capture_output=True)
 after={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in OUT.rglob('*') if p.is_file()}
 assert before==after,'Build not deterministic'
-print(f'PASS: {len(S)} official-source properties, {len(canonicals)+1} HTML pages; evidence hashes, field provenance, internal links, canonical/schema URLs, sitemap coverage, robots, CNAME, route migration and deterministic build.')
+print(f'PASS: {len(S)} official-source properties, {len(canonicals)+1} HTML pages; evidence hashes, field provenance, internal links, canonical/schema URLs, sitemap coverage, robots, no CNAME, route migration and deterministic build.')

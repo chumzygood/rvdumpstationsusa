@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rvdumpstationsusa.com/sitemap.xml
+Sitemap: https://chumzygood.github.io/rvdumpstationsusa/sitemap.xml

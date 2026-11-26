@@ -1,7 +1,7 @@
 # RV Dump Stations USA
 
 National official-source RV dump-station directory, starting with Texas.
-Canonical domain: https://rvdumpstationsusa.com/
+Canonical domain: https://rvdumpstationsusa.com/ (pending registration). Temporarily served at https://chumzygood.github.io/rvdumpstationsusa/ until that domain is bought.
 
 ## Build
 
